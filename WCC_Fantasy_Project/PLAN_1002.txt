@@ -1,0 +1,122 @@
+  
+  ## I really like the idea of Proj Source 
+## I don't know if i need a PlayerId for each player because espn has full names now 
+
+  # i gotta think about pages
+  * Build pages:
+
+    * **Standings** (team totals by week).
+    * **Roster Boxscores** (team’s week performance).
+    * **Player Page** (individual game logs).
+    * **Free Agents** (sorted by recent fantasy points).
+
+
+# definitely want to have a composite primary key PRIMARY KEY (player_name, team, opponent, game_date)
+---
+
+When you append new games to SQLite, it doesn’t check the roster automatically — it just stores all rows.
+
+Whether a player is on a fantasy roster or not is determined later, when you join gamelog → roster / draft_board in queries.
+
+| Step | Data Source                         | Table / Entity     | Notes                                                                        |
+| ---- | ----------------------------------- | ------------------ | ---------------------------------------------------------------------------- |
+| 1    | Scraped CSV from ESPN               | `gamelog`          | Append daily; raw box scores; independent of roster                          |
+| 2    | Roster updates (static + transfers) | `rosters`          | Update as needed; rare but can correct mid-season                            |
+| 3    | Stats / projections                 | `stats`            | Weekly updates; used for draft_board and ADP                                 |
+| 4    | Draft board / app queries           | `draft_board` view | Joins rosters + stats → reflects all roster + projection changes dynamically |
+| 5    | Transactions                        | `transactions`     | Append user actions; links gamelog rows to fantasy teams                     |
+| 6    | Streamlit UI                        | queries SQLite     | Always reads current state of tables; dynamic, live                          |
+
+
+
+## 📍 Where You Are Now
+
+* **Data Source:** ✅ ESPN scraping pipeline working.
+* **Projections:**
+
+  * ✅ Returning WCC players = solid projections.
+  * ✅ Incoming transfers = adjusted projections based on prior conference stats.
+  * ⏳ Freshmen / “no-stats” players = need coverage.
+* **Draft Materials:**
+
+  * ✅ Draft board framework built.
+  * ⏳ Need roster_match to find “projection gaps” (freshmen, redshirts, etc.).
+* **Tech Setup:**
+
+  * Have CSV outputs (players, game logs).
+  * Haven’t yet built SQLite + Streamlit workflow.
+
+---
+
+## 🔜 Next Steps (Draft First, Then Platform)
+
+### 1. **Finish Draft Materials**
+
+* **Roster Match:**
+
+  * Compare ESPN rosters vs. your projection list.
+  * Output → list of players without projections (freshmen, internationals, untracked transfers).
+* **Handle Missing Projections:**
+
+  * Assign baseline projections (e.g., bottom-tier ADP, randomized floor).
+  * Mark them clearly (e.g., `ProjSource = "Baseline"`) so they’re distinguishable later.
+
+
+* **Lock Draft Board:**
+
+  * Every WCC player has: `PlayerID, Name, Team, Projection, ADP`.
+  * You can now run a **draft simulation** and output `FantasyRosters_Week1.csv`.
+
+---
+
+### 2. **Lock In Weekly Workflow**
+
+Once draft materials are locked:
+
+* **Roster Snapshots:**
+
+  * Week 1 → `FantasyRosters.csv`.
+  * Copy forward weekly and apply transactions (add/drop/trade).
+* **Game Logs:**
+
+  * Keep scraping game stats → append to `GameLog.csv`.
+  * Always include `PlayerID` for clean joins.
+* **Merge:**
+
+  * Join `FantasyRosters` + `GameLog` on `(PlayerID, Week)`.
+  * Unified dataset = “truth” for standings, box scores, free agents.
+
+---
+
+### 3. **SQLite + Streamlit Platform**
+
+* **SQLite Setup:**
+
+  * Import `FantasyRosters.csv` and `GameLog.csv`.
+  * Test key queries:
+
+    * Points per FantasyTeam per Week.
+    * Player logs per FantasyTeam.
+    * Free agents with last week’s stats.
+* **Streamlit Setup:**
+
+  * Build pages:
+
+    * **Standings** (team totals by week).
+    * **Roster Boxscores** (team’s week performance).
+    * **Player Page** (individual game logs).
+    * **Free Agents** (sorted by recent fantasy points).
+
+---
+
+## ✅ Summary
+
+* **Draft Phase:** Almost complete → just need to patch projection gaps and finalize draft board.
+* **Workflow Phase:** Next priority → set in stone how snapshots + game logs merge.
+* **Platform Phase:** After that, load everything into SQLite + build Streamlit dashboards.
+
+This way, your draft materials don’t block your season workflow, and your workflow is already designed to scale once you bring Streamlit online.
+
+---
+
+Do you want me to sketch out the **roster_match logic** (e.g., how to programmatically find missing projections and tag them), or the **Streamlit page layout structure** next?
