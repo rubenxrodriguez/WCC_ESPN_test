@@ -1,0 +1,47 @@
+lets work on phase 1. draft webpage 
+
+these are just rough ideas so feel free to add to and modify 
+
+so the webpage should have idk 5 or 6 tabs 
+
+home page 
+
+weekly standings
+
+user team rosters
+
+free agents 
+
+draft board / room 
+
+how do i set up the website to have multiple pages -- what does that look like in my web_app python directory? 
+
+
+
+| Tab                    | Purpose                                                      | Notes                                                                          |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| **Home**               | Welcome page, overview of league, instructions               | Optional banner / latest news                                                  |
+| **Weekly Standings**   | Points per team, weekly breakdown, line chart                | Reads from `FantasyRosters + GameLog`                                          |
+| **User Team Rosters**  | Shows each user’s roster + weekly points                     | Allows clicking a player → details                                             |
+| **Free Agents**        | Players not on a roster, sorted by last week / season points | Enable search/filter                                                           |
+| **Draft Board / Room** | Live draft interface                                         | Show all players, projections, draft buttons, “best available” recommendations |
+Transactions             | 
+
+
+this is the structure of my project : 
+SQLITE                  data                    rosters                 scraper and pipeline    wcc_fantasy.db          web_app                 webapp_plan.txt         webapp_screenshots
+
+./SQLITE:
+create_sql_tables.py    temp_sqlite.py
+
+./data:
+Draft Board.csv wcc_concat.csv
+
+./scraper and pipeline:
+Big_Picture_Pipeline.png        ESPN_SCRAPER.py                 PLAN_1002.txt
+
+./web_app:
+app.py          pages           roster_view.py
+
+./web_app/pages:
+1_Standings.py          2_Draft_board.py

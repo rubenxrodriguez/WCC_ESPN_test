@@ -1,0 +1,3 @@
+
+cd /Users/rrodr102/Desktop/Python/WCC_Fantasy_1105
+python3 web_app/update_fantasy_stats.py

@@ -1,0 +1,876 @@
+Name,Jersey #,Team,Opponent,didWin,Date,MIN,OREB,DREB,REB,AST,STL,BLK,TO,PF,FGM,FGA,3PM,3PA,FTM,FTA,PTS,FantasyPts
+Lorena Barbosa,#10,Idaho Vandals,Washington State Cougars,1,11/03/25,15,3,1,4,0,0,2,7,4,2,5,0,1,6,7,10,4
+Ana Pinheiro,#37,Idaho Vandals,Washington State Cougars,1,11/03/25,28,4,3,7,1,1,2,1,4,4,9,0,1,8,10,16,31
+Ella Uriarte,#5,Idaho Vandals,Washington State Cougars,1,11/03/25,22,0,0,0,1,2,0,0,4,0,0,0,0,1,2,1,12
+Hope Hassmann,#4,Idaho Vandals,Washington State Cougars,1,11/03/25,31,1,3,4,4,1,0,4,2,7,18,1,3,2,2,17,25
+Kyra Gardner,#3,Idaho Vandals,Washington State Cougars,1,11/03/25,33,1,7,8,0,5,1,1,1,9,16,6,10,2,3,26,59
+Sarah Brans,#2,Idaho Vandals,Washington State Cougars,1,11/03/25,16,2,1,3,2,1,1,0,3,2,5,1,3,0,0,5,20
+Debora dos Santos,#9,Idaho Vandals,Washington State Cougars,1,11/03/25,9,1,2,3,0,0,0,2,0,3,6,0,0,2,4,8,6
+Katlin Kangur,#14,Idaho Vandals,Washington State Cougars,1,11/03/25,6,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,3
+Ana Beatriz Passos Alves da Silva,#23,Idaho Vandals,Washington State Cougars,1,11/03/25,20,3,1,4,0,1,0,2,1,0,2,0,0,0,0,0,3
+Mary McMorris,#24,Idaho Vandals,Washington State Cougars,1,11/03/25,18,0,2,2,1,0,0,4,4,1,6,0,2,0,0,2,-6
+Niveya Henley,#21,Idaho Vandals,Washington State Cougars,1,11/03/25,2,1,0,1,0,0,0,0,2,1,1,0,0,0,0,2,5
+Tanja Valancic,#9,Washington State Cougars,Idaho Vandals,0,11/03/25,13,1,0,1,0,0,0,1,4,0,4,0,1,0,0,0,-6
+Alex Covill,#33,Washington State Cougars,Idaho Vandals,0,11/03/25,12,2,1,3,2,0,0,3,4,1,4,0,0,0,0,2,3
+Charlotte Abraham,#10,Washington State Cougars,Idaho Vandals,0,11/03/25,21,1,6,7,3,1,0,3,5,2,6,0,3,6,8,10,17
+Mackenzie Chatfield,#8,Washington State Cougars,Idaho Vandals,0,11/03/25,30,1,2,3,4,1,0,4,3,2,4,0,0,1,4,5,13
+Eleonora Villa,#2,Washington State Cougars,Idaho Vandals,0,11/03/25,38,1,1,2,3,2,0,4,1,10,19,2,6,2,4,24,32
+Malia Ruud,#55,Washington State Cougars,Idaho Vandals,0,11/03/25,21,1,1,2,0,1,1,0,4,4,5,1,1,0,2,9,20
+Keandra Koorits,#15,Washington State Cougars,Idaho Vandals,0,11/03/25,30,1,5,6,0,0,0,3,3,6,10,3,5,8,9,23,25
+Marta Alsina,#12,Washington State Cougars,Idaho Vandals,0,11/03/25,31,0,5,5,1,3,2,2,3,5,7,2,4,0,0,12,37
+Jean Chiu,#5,Washington State Cougars,Idaho Vandals,0,11/03/25,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andjela Bigovic,#6,Seattle U Redhawks,Washington Huskies,0,11/03/25,17,0,1,1,0,0,1,1,0,2,5,0,2,0,0,4,3
+Tamia Stricklin,#14,Seattle U Redhawks,Washington Huskies,0,11/03/25,24,2,2,4,0,1,0,6,3,6,11,0,0,0,0,12,9
+Dylan Mogel,#5,Seattle U Redhawks,Washington Huskies,0,11/03/25,27,0,0,0,3,1,0,4,2,0,1,0,0,1,2,1,4
+Sydnie Rodriguez,#24,Seattle U Redhawks,Washington Huskies,0,11/03/25,26,2,3,5,0,0,0,0,1,1,10,1,8,0,0,3,-6
+Ella Brubaker,#3,Seattle U Redhawks,Washington Huskies,0,11/03/25,24,2,2,4,2,0,1,3,1,3,9,2,4,0,0,8,12
+Fia Proctor,#4,Seattle U Redhawks,Washington Huskies,0,11/03/25,9,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,-1
+Lucija Milkovic,#7,Seattle U Redhawks,Washington Huskies,0,11/03/25,14,3,4,7,0,0,2,1,2,2,5,0,0,0,0,4,14
+Jana Vesic,#9,Seattle U Redhawks,Washington Huskies,0,11/03/25,18,1,1,2,2,0,0,4,1,1,9,0,3,4,4,6,-4
+Chloe Emanga,#8,Seattle U Redhawks,Washington Huskies,0,11/03/25,15,0,1,1,0,1,0,1,3,1,4,1,1,0,0,3,5
+Aaliyah Ibarra,#21,Seattle U Redhawks,Washington Huskies,0,11/03/25,12,0,0,0,0,0,0,0,3,0,2,0,1,0,0,0,-3
+Lucy Larson,#22,Seattle U Redhawks,Washington Huskies,0,11/03/25,14,0,1,1,0,1,0,1,3,1,3,0,1,0,1,2,2
+Yulia Grabovskaia,#55,Washington Huskies,Seattle U Redhawks,1,11/03/25,13,3,2,5,4,0,1,1,0,2,5,0,0,0,0,4,22
+Avery Howell,#2,Washington Huskies,Seattle U Redhawks,1,11/03/25,19,0,4,4,0,0,0,0,1,5,5,4,4,4,5,18,31
+Sayvia Sellers,#0,Washington Huskies,Seattle U Redhawks,1,11/03/25,17,0,3,3,6,4,1,4,1,9,13,1,4,2,3,21,56
+Hannah Stines,#1,Washington Huskies,Seattle U Redhawks,1,11/03/25,22,0,4,4,5,3,0,0,1,3,8,0,0,1,2,7,36
+Teagan Brown,#5,Washington Huskies,Seattle U Redhawks,1,11/03/25,22,1,1,2,1,1,0,0,0,3,3,0,0,0,0,6,19
+Nina Cain,#25,Washington Huskies,Seattle U Redhawks,1,11/03/25,10,2,4,6,0,1,0,0,1,0,0,0,0,0,2,0,9
+Brynn McGaughy,#21,Washington Huskies,Seattle U Redhawks,1,11/03/25,12,2,1,3,0,0,2,1,0,2,5,0,0,0,0,4,11
+Olivia Anderson,#23,Washington Huskies,Seattle U Redhawks,1,11/03/25,12,3,0,3,1,0,4,1,1,1,4,0,1,3,4,5,18
+Shayla Gillmer,#22,Washington Huskies,Seattle U Redhawks,1,11/03/25,12,2,1,3,0,1,1,1,0,1,2,0,0,0,2,2,9
+Sienna Harvey,#35,Washington Huskies,Seattle U Redhawks,1,11/03/25,16,0,2,2,1,1,0,2,0,6,10,1,2,2,3,15,22
+Devin Coppinger,#3,Washington Huskies,Seattle U Redhawks,1,11/03/25,22,3,0,3,1,0,0,0,3,1,5,0,3,0,0,2,3
+Chloe Briggs,#11,Washington Huskies,Seattle U Redhawks,1,11/03/25,23,2,3,5,0,0,0,1,1,2,7,0,2,2,3,6,4
+Erin Condron,#11,UC San Diego Tritons,Pacific Tigers,0,11/03/25,35,2,6,8,1,1,1,1,2,5,10,0,3,1,3,11,22
+Lev Feiman,#13,UC San Diego Tritons,Pacific Tigers,0,11/03/25,24,2,2,4,0,4,0,0,1,5,11,1,1,4,4,15,35
+Dymonique Maxie,#10,UC San Diego Tritons,Pacific Tigers,0,11/03/25,40,1,0,1,4,6,0,4,3,2,11,0,3,6,8,10,27
+Makayla Rose,#4,UC San Diego Tritons,Pacific Tigers,0,11/03/25,30,0,1,1,1,3,0,1,3,6,12,1,4,3,3,16,28
+Sabrina Ma,#15,UC San Diego Tritons,Pacific Tigers,0,11/03/25,35,0,2,2,3,1,0,1,2,2,11,1,7,0,0,5,6
+Niya Price,#24,UC San Diego Tritons,Pacific Tigers,0,11/03/25,3,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,-4
+Michaela Fairwell,#2,UC San Diego Tritons,Pacific Tigers,0,11/03/25,15,0,2,2,1,1,1,1,3,1,4,0,2,2,3,4,9
+Nicki Polocheck,#21,UC San Diego Tritons,Pacific Tigers,0,11/03/25,2,1,0,1,0,0,0,0,0,1,2,0,1,0,0,2,2
+Junae Mahan,#25,UC San Diego Tritons,Pacific Tigers,0,11/03/25,14,0,0,0,0,0,0,1,2,1,4,1,2,0,0,3,-1
+Gracie Gallegos,#22,UC San Diego Tritons,Pacific Tigers,0,11/03/25,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Winner Bartholomew,#25,Pacific Tigers,UC San Diego Tritons,1,11/03/25,27,2,7,9,1,2,0,1,4,3,8,0,0,0,2,6,21
+Daria Nestorov,#21,Pacific Tigers,UC San Diego Tritons,1,11/03/25,28,0,6,6,3,0,0,4,1,5,7,4,6,1,2,15,27
+Marina Radocaj,#9,Pacific Tigers,UC San Diego Tritons,1,11/03/25,32,1,9,10,2,1,1,6,4,3,3,0,0,0,0,6,21
+Stella Szabo,#5,Pacific Tigers,UC San Diego Tritons,1,11/03/25,21,0,3,3,1,0,0,1,2,2,5,2,4,0,0,6,10
+Sydney Ward,#10,Pacific Tigers,UC San Diego Tritons,1,11/03/25,27,2,4,6,3,0,2,3,3,4,9,2,5,3,4,13,26
+Tyla Fautua,#32,Pacific Tigers,UC San Diego Tritons,1,11/03/25,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,3
+Luisa Anderegg,#11,Pacific Tigers,UC San Diego Tritons,1,11/03/25,9,0,1,1,0,0,0,2,0,1,2,1,2,0,0,3,1
+Sophia Mindermann,#8,Pacific Tigers,UC San Diego Tritons,1,11/03/25,18,0,1,1,4,0,0,1,1,1,10,1,7,1,3,4,1
+Liv Yergensen,#7,Pacific Tigers,UC San Diego Tritons,1,11/03/25,20,1,1,2,0,0,1,2,2,4,7,0,2,0,0,8,9
+Hannah Burg,#3,Pacific Tigers,UC San Diego Tritons,1,11/03/25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Nyah Lowery,#15,Pacific Tigers,UC San Diego Tritons,1,11/03/25,15,0,0,0,1,0,1,2,4,3,3,2,2,0,0,8,16
+Sophie Jimenez,#10,Bethesda University Flames,San Diego Toreros,0,11/03/25,40,0,2,2,1,0,0,2,2,3,9,1,1,2,5,9,5
+Vanessa Moses,#25,Bethesda University Flames,San Diego Toreros,0,11/03/25,40,0,5,5,0,1,0,0,1,0,2,0,0,0,0,0,7
+Shyann Morreo,#22,Bethesda University Flames,San Diego Toreros,0,11/03/25,40,0,1,1,1,0,0,3,1,3,19,3,14,2,2,11,-12
+Mary Gonzales,#2,Bethesda University Flames,San Diego Toreros,0,11/03/25,14,0,0,0,0,0,0,1,0,0,6,0,1,0,0,0,-9
+Serina Quezada,#7,Bethesda University Flames,San Diego Toreros,0,11/03/25,40,0,4,4,3,0,1,2,2,1,5,1,2,0,0,3,12
+Helen Holley,#10,San Diego Toreros,Bethesda University Flames,1,11/03/25,7,3,1,4,0,0,1,0,1,0,3,0,0,0,0,0,5
+Malia Tharpe,#11,San Diego Toreros,Bethesda University Flames,1,11/03/25,10,2,3,5,0,0,0,0,0,1,3,0,0,0,0,2,7
+Olivia Owens,#24,San Diego Toreros,Bethesda University Flames,1,11/03/25,12,1,0,1,1,1,0,1,0,2,4,0,2,0,0,4,9
+Kylie Ray,#6,San Diego Toreros,Bethesda University Flames,1,11/03/25,12,0,1,1,6,0,0,2,0,1,4,1,4,0,0,3,15
+Hallie Rhodes,#20,San Diego Toreros,Bethesda University Flames,1,11/03/25,12,1,1,2,0,0,0,0,0,5,8,1,3,0,0,11,15
+Eva Ruse,#15,San Diego Toreros,Bethesda University Flames,1,11/03/25,16,4,5,9,1,0,0,1,0,3,3,0,0,1,1,7,21
+Dresha Moore,#1,San Diego Toreros,Bethesda University Flames,1,11/03/25,7,1,1,2,0,1,0,0,1,1,1,0,0,0,0,2,10
+Ayla Williams,#22,San Diego Toreros,Bethesda University Flames,1,11/03/25,16,2,4,6,2,0,1,0,0,0,0,0,0,0,4,0,12
+Erica Carr,#12,San Diego Toreros,Bethesda University Flames,1,11/03/25,24,2,2,4,2,0,1,1,0,3,5,0,1,2,2,8,20
+Jessica Ajayi,#4,San Diego Toreros,Bethesda University Flames,1,11/03/25,20,1,4,5,6,2,1,1,2,3,7,1,5,1,2,8,36
+Ysabella Von Seipler,#0,San Diego Toreros,Bethesda University Flames,1,11/03/25,19,2,4,6,3,1,0,0,1,5,11,2,5,0,0,12,30
+Lilly Amor,#3,San Diego Toreros,Bethesda University Flames,1,11/03/25,22,1,1,2,2,0,1,0,1,5,13,3,10,0,0,13,18
+Jayden Rhodes,#19,San Diego Toreros,Bethesda University Flames,1,11/03/25,23,5,3,8,1,1,0,1,0,9,13,4,5,0,0,22,44
+MilaSarai Tau,#33,Stanislaus State Warriors,Santa Clara Broncos,0,11/03/25,24,1,5,6,3,1,0,4,4,5,11,0,0,1,4,11,18
+Eryn Gardner,#23,Stanislaus State Warriors,Santa Clara Broncos,0,11/03/25,27,3,4,7,0,1,1,5,1,2,8,0,0,2,2,6,6
+Amya Vangkham-Griffin,#21,Stanislaus State Warriors,Santa Clara Broncos,0,11/03/25,13,0,0,0,1,0,0,0,2,0,2,0,0,2,2,2,3
+Alyssa Premo,#13,Stanislaus State Warriors,Santa Clara Broncos,0,11/03/25,18,2,4,6,1,0,0,0,4,3,8,0,0,1,1,7,14
+Quinn Garrett,#2,Stanislaus State Warriors,Santa Clara Broncos,0,11/03/25,26,0,1,1,3,0,0,3,1,1,5,1,3,1,2,4,3
+Cameron Gibson,#31,Stanislaus State Warriors,Santa Clara Broncos,0,11/03/25,24,3,6,9,1,0,3,3,3,2,5,0,0,0,0,4,18
+Karissa Hukill,#25,Stanislaus State Warriors,Santa Clara Broncos,0,11/03/25,26,0,4,4,0,1,0,1,3,2,11,0,1,0,0,4,2
+Lexi Derf,#5,Stanislaus State Warriors,Santa Clara Broncos,0,11/03/25,8,0,1,1,0,0,0,1,0,0,2,0,2,0,0,0,-5
+Aaliyah Dias,#30,Stanislaus State Warriors,Santa Clara Broncos,0,11/03/25,21,1,1,2,0,0,0,0,4,5,10,1,4,3,3,14,14
+Kalyn Harris,#4,Stanislaus State Warriors,Santa Clara Broncos,0,11/03/25,13,0,0,0,1,0,0,2,0,0,4,0,1,0,0,0,-6
+Kylee Fox,#30,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,23,2,5,7,4,2,0,0,0,7,12,4,5,0,0,18,51
+Sophie Glancey,#12,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,10,3,2,5,1,0,2,0,0,5,7,0,1,1,4,11,25
+Aniya Hooker,#2,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,23,0,2,2,5,1,1,0,2,1,4,0,2,2,2,4,25
+Ashley Hawkins,#23,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,22,1,7,8,6,2,0,1,2,5,11,4,9,2,2,16,47
+Maia Jones,#9,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,18,0,1,1,3,1,0,2,0,6,11,2,6,0,0,14,24
+Tyler Gildersleeve-Stiles,#34,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,25,5,6,11,4,1,2,2,2,4,10,0,1,2,3,10,36
+Lauren Grover,#10,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Alana Goodchild,#11,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,13,3,2,5,0,0,0,0,3,2,6,0,3,4,6,8,7
+Delainey Miller,#20,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,25,6,5,11,5,1,2,3,3,2,7,0,2,4,9,8,29
+Sienna Grieger,#6,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,16,1,2,3,1,0,0,0,1,3,7,2,5,0,0,8,13
+Kate Schat,#3,Santa Clara Broncos,Stanislaus State Warriors,1,11/03/25,22,2,2,4,2,1,1,3,3,3,10,3,9,2,4,11,14
+Edie Clarke,#7,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,25,0,1,1,2,2,1,5,2,1,5,0,1,2,2,4,9
+Abigail Shoff,#5,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,24,1,2,3,2,0,0,0,4,4,7,0,0,0,1,8,18
+Georgia Grigoropoulou,#10,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,7,1,1,2,0,0,0,0,0,2,5,0,0,0,2,4,4
+Emily Foy,#8,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,12,0,2,2,0,0,0,1,2,0,0,0,0,0,0,0,1
+Malia Latu,#13,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,14,0,0,0,1,0,0,2,2,1,3,0,0,0,0,2,1
+Melesungu Afeaki,#22,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,11,0,1,1,1,0,0,2,2,1,3,0,0,0,0,2,2
+Addi Wedin,#23,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,26,0,3,3,0,3,1,1,3,3,4,2,2,5,6,13,33
+Mauriana Hashemian-Orr,#3,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,27,1,3,4,1,2,0,3,4,4,5,0,0,4,4,12,25
+Amy Kurkowski,#2,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,5,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0,4
+Jada Hunter,#0,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,24,0,5,5,0,2,0,1,2,2,4,0,0,5,6,9,20
+Charlece Ohiaeri,#4,Saint Mary's Gaels,Wyoming Cowgirls,1,11/04/25,25,0,2,2,0,3,1,1,0,1,4,0,2,0,0,2,14
+Logann Alvar,#1,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,19,1,1,2,2,1,0,0,1,1,2,0,0,5,6,7,18
+Madi Symons,#11,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,19,0,2,2,0,0,0,3,1,1,2,0,1,0,0,2,-3
+Lana Beslic,#10,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,23,1,1,2,0,2,1,1,3,0,3,0,1,0,0,0,7
+Henna Sandvik,#26,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,36,3,3,6,2,2,0,2,3,1,8,0,4,6,6,8,14
+Malene Pedersen,#12,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,34,3,2,5,2,1,0,2,3,5,12,2,4,2,2,14,23
+Peyton Wohlford,#22,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,14,0,3,3,0,0,0,2,0,0,3,0,3,0,0,0,-7
+Jane Rumpf,#2,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,6,0,1,1,2,0,0,2,3,0,0,0,0,0,0,0,3
+Heidur Karlsdottir,#15,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,20,1,2,3,0,0,0,1,1,2,5,0,0,1,2,5,4
+Aurore Eyango,#6,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mikyn Hamlin,#25,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,7,0,0,0,0,0,0,1,1,1,1,0,0,0,2,2,-1
+Payton Muma,#3,Wyoming Cowgirls,Saint Mary's Gaels,0,11/04/25,22,0,3,3,1,1,0,3,2,4,8,1,4,0,1,9,10
+Emma Floyd,#30,Willamette Bearcats,Portland Pilots,0,11/04/25,19,1,1,2,1,1,0,4,2,4,11,3,7,0,0,11,8
+Daisy Boling-Schmidt,#14,Willamette Bearcats,Portland Pilots,0,11/04/25,19,1,2,3,1,0,0,1,1,3,6,0,0,0,0,6,10
+Riley Walden,#12,Willamette Bearcats,Portland Pilots,0,11/04/25,34,1,1,2,0,2,2,4,2,7,12,3,7,0,0,17,26
+Kaitlin Imai,#11,Willamette Bearcats,Portland Pilots,0,11/04/25,27,1,3,4,3,3,0,7,0,2,10,0,2,0,0,4,7
+Peyton Gardner,#10,Willamette Bearcats,Portland Pilots,0,11/04/25,25,0,2,2,2,1,0,6,0,0,3,0,1,0,2,0,-6
+Jordyn Reed,#23,Willamette Bearcats,Portland Pilots,0,11/04/25,7,0,1,1,0,0,0,0,0,0,2,0,0,2,2,2,1
+Syd Shoemaker,#5,Willamette Bearcats,Portland Pilots,0,11/04/25,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Addie Hiler,#22,Willamette Bearcats,Portland Pilots,0,11/04/25,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mattie Thompson,#24,Willamette Bearcats,Portland Pilots,0,11/04/25,6,3,0,3,0,0,0,1,0,0,3,0,0,0,0,0,-2
+Leia Mata,#33,Willamette Bearcats,Portland Pilots,0,11/04/25,7,0,0,0,1,0,0,2,0,0,1,0,0,0,0,0,-2
+Aasia Williams,#20,Willamette Bearcats,Portland Pilots,0,11/04/25,11,0,2,2,1,0,0,0,1,0,3,0,2,0,0,0,0
+Alexis Dockter,#4,Willamette Bearcats,Portland Pilots,0,11/04/25,11,0,0,0,2,0,0,1,2,0,0,0,0,0,0,0,4
+Karsyn Ripplinger,#3,Willamette Bearcats,Portland Pilots,0,11/04/25,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2
+Gabbie Wilson,#1,Willamette Bearcats,Portland Pilots,0,11/04/25,18,0,0,0,2,0,0,1,1,1,4,1,3,0,0,3,4
+Jaydin Lutu,#2,Willamette Bearcats,Portland Pilots,0,11/04/25,5,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Lainey Spear,#20,Portland Pilots,Willamette Bearcats,1,11/04/25,14,3,3,6,3,2,0,0,3,4,5,0,0,1,2,9,35
+Julia Dalan,#44,Portland Pilots,Willamette Bearcats,1,11/04/25,15,1,2,3,1,0,2,2,0,4,7,0,0,0,0,8,18
+Rhyan Mogel,#22,Portland Pilots,Willamette Bearcats,1,11/04/25,13,0,0,0,3,2,0,0,1,4,4,0,0,0,0,8,30
+Dyani Ananiev,#2,Portland Pilots,Willamette Bearcats,1,11/04/25,16,1,1,2,3,3,1,1,0,4,6,2,4,0,0,10,37
+Florence Dallow,#3,Portland Pilots,Willamette Bearcats,1,11/04/25,12,1,2,3,1,0,0,0,1,5,9,1,2,0,0,11,19
+Ella Zimmerman,#42,Portland Pilots,Willamette Bearcats,1,11/04/25,16,0,3,3,1,0,1,1,0,4,4,0,0,0,0,8,20
+Jada Kennedy,#9,Portland Pilots,Willamette Bearcats,1,11/04/25,14,2,2,4,1,0,0,0,0,3,4,0,0,0,0,6,16
+Aubrey Herrin,#5,Portland Pilots,Willamette Bearcats,1,11/04/25,18,1,3,4,1,0,2,2,2,3,4,0,0,0,0,6,18
+Brynn Smith,#12,Portland Pilots,Willamette Bearcats,1,11/04/25,20,0,1,1,2,4,0,3,0,6,9,0,1,0,0,12,32
+Caitlin Monahan,#14,Portland Pilots,Willamette Bearcats,1,11/04/25,14,2,1,3,2,0,1,2,1,0,3,0,1,0,0,0,5
+Tiffany Barbosa,#7,Portland Pilots,Willamette Bearcats,1,11/04/25,19,0,1,1,1,3,0,0,1,2,4,0,2,2,2,6,21
+Natalie Fraley,#10,Portland Pilots,Willamette Bearcats,1,11/04/25,19,0,3,3,4,2,1,4,1,3,5,1,3,2,2,9,28
+Nicole Anderson,#17,Portland Pilots,Willamette Bearcats,1,11/04/25,10,0,0,0,0,0,0,0,0,1,3,0,1,0,0,2,1
+Shorna Preston,#12,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,15,0,8,8,2,1,0,3,3,2,2,0,0,0,0,4,19
+Irune Orio,#31,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,18,0,2,2,5,0,1,2,2,1,1,1,1,3,4,6,24
+Ellison Guiney,#2,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,28,1,3,4,3,2,0,3,1,4,8,2,6,4,6,14,26
+Taija Sta. Maria,#1,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,34,0,2,2,7,1,0,5,3,1,4,1,1,3,4,6,22
+Meghan Fiso,#13,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,23,0,4,4,2,1,2,4,1,6,9,0,2,1,1,13,27
+Zoe Shanahan,#44,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+Seleh Harmon,#30,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,23,0,0,0,2,2,1,2,0,5,7,5,7,0,0,15,35
+Quinn VanSickle,#11,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,6,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,-1
+Ilinca Belegante,#10,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Lina Falk,#22,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,11,1,3,4,0,1,1,1,2,3,5,0,2,0,0,6,15
+Bella Green,#3,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,16,1,5,6,1,1,0,5,3,0,1,0,0,3,4,3,5
+Ivory Finley,#0,Pepperdine Waves,Cal State Fullerton Titans,1,11/04/25,23,3,2,5,2,2,0,2,3,7,10,3,6,0,2,17,35
+Cristina Jones,#55,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,12,1,0,1,1,3,0,4,4,0,6,0,0,1,4,1,0
+Nicole Steiner,#0,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,27,8,3,11,3,4,0,2,3,4,8,0,0,9,13,17,45
+Jana Falsdottir,#4,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,23,0,1,1,1,2,0,1,2,4,7,2,4,0,0,10,21
+Maddy Tauro,#3,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,18,0,2,2,2,2,0,1,3,2,11,0,1,0,0,4,10
+Kya Pearson,#33,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,21,0,1,1,3,6,0,6,4,1,5,0,2,0,0,2,19
+Lilliana Petersen,#13,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,11,0,0,0,1,0,0,0,0,2,4,2,2,0,0,6,11
+Talia Maxwell,#23,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,7,0,1,1,1,0,0,0,0,1,1,0,0,0,0,2,7
+Dylan Swindle,#10,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,15,1,0,1,1,1,0,1,3,1,5,0,4,2,2,4,3
+Maxine Sutisna,#5,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,24,2,3,5,0,1,0,1,2,6,12,3,5,0,0,15,23
+Mimi Moon,#1,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,16,1,2,3,1,0,0,0,0,2,7,0,3,2,2,6,6
+Madelynn Muniz,#22,Cal State Fullerton Titans,Pepperdine Waves,0,11/04/25,26,1,0,1,1,1,0,2,3,1,7,1,5,0,0,3,-1
+Helen Holley,#10,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,30,2,7,9,0,2,2,0,3,1,5,0,2,1,2,3,20
+Malia Tharpe,#11,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,18,1,0,1,1,0,0,1,3,2,5,0,1,0,2,4,2
+Olivia Owens,#24,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,24,0,0,0,1,1,0,2,3,2,7,2,5,0,0,6,5
+Kylie Ray,#6,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,37,4,4,8,1,4,0,10,3,7,23,3,7,6,6,23,20
+Hallie Rhodes,#20,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,32,2,2,4,1,2,0,0,1,2,7,1,4,0,0,5,15
+Eva Ruse,#15,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,9,2,0,2,1,0,0,1,3,2,2,0,0,2,4,6,9
+Dresha Moore,#1,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,22,1,1,2,0,0,0,0,4,3,6,1,1,0,1,7,9
+Ayla Williams,#22,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,3,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,7
+Jessica Ajayi,#4,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,8,1,1,2,0,0,0,1,2,0,2,0,1,0,0,0,-3
+Lilly Amor,#3,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jayden Rhodes,#19,San Diego Toreros,UC Irvine Anteaters,0,11/05/25,14,0,1,1,1,1,1,0,0,0,2,0,2,0,0,0,7
+Daniela Falcon Hernandez,#9,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,16,0,4,4,0,1,1,2,2,1,2,0,0,2,2,4,12
+Lauryn Madsen,#10,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,33,1,7,8,3,1,1,2,0,4,8,4,8,0,0,12,33
+Shirel Nahum,#12,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,34,0,3,3,4,3,0,3,1,1,7,0,1,4,6,6,20
+Jada Wynn,#23,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,36,0,6,6,7,1,0,0,2,3,10,2,8,9,9,17,41
+Hunter Hernandez,#20,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,26,2,4,6,2,0,0,3,0,4,12,3,5,2,2,13,17
+Nohe'alani Stores,#13,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,24,4,1,5,0,2,0,1,2,7,8,0,0,3,5,17,33
+Naomy Zonzon-Huyghe,#24,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,21,1,1,2,0,2,0,2,4,0,0,0,0,3,4,3,9
+Despoina Baltzi,#21,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Ameerah Grant,#1,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,5,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,-4
+Reese Noa,#22,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Haley Hernandez,#2,UC Irvine Anteaters,San Diego Toreros,1,11/05/25,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Rylan Moffitt,#15,UNC Greensboro Spartans,San Francisco Dons,0,11/05/25,30,5,4,9,0,2,0,1,1,0,5,0,0,0,0,0,10
+Tasia Johnson,#2,UNC Greensboro Spartans,San Francisco Dons,0,11/05/25,30,1,2,3,1,1,0,0,1,2,10,2,7,1,2,7,7
+Makiah Asidanya,#22,UNC Greensboro Spartans,San Francisco Dons,0,11/05/25,36,0,2,2,1,1,0,2,2,6,16,3,10,4,4,19,16
+Jeni Levine,#1,UNC Greensboro Spartans,San Francisco Dons,0,11/05/25,33,0,5,5,1,0,0,3,1,3,17,2,8,2,2,10,-3
+Jaila Lee,#4,UNC Greensboro Spartans,San Francisco Dons,0,11/05/25,23,4,1,5,1,1,0,2,3,1,10,0,3,0,0,2,-1
+Salimata Traore,#7,UNC Greensboro Spartans,San Francisco Dons,0,11/05/25,3,1,1,2,0,0,0,0,0,0,1,0,0,0,0,0,1
+Kristina Rakotobe,#6,UNC Greensboro Spartans,San Francisco Dons,0,11/05/25,11,0,3,3,0,1,0,2,3,0,2,0,0,0,0,0,1
+Leyla Minor,#0,UNC Greensboro Spartans,San Francisco Dons,0,11/05/25,21,1,0,1,0,1,0,2,2,0,2,0,1,2,2,2,0
+Ciara Harris,#12,UNC Greensboro Spartans,San Francisco Dons,0,11/05/25,10,1,1,2,0,0,0,0,2,0,1,0,0,0,0,0,1
+Joelle Davis,#13,UNC Greensboro Spartans,San Francisco Dons,0,11/05/25,3,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,-4
+Noelia Mourio,#3,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,10,1,2,3,2,0,0,3,5,4,4,0,0,0,0,8,16
+Aina Cargol,#9,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,25,0,0,0,1,2,0,0,0,2,8,1,3,2,2,7,14
+Meghan McIntyre,#4,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,30,1,9,10,7,1,0,1,0,4,6,1,2,2,2,11,47
+Candy Edokpaigbe,#23,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,33,2,5,7,1,0,2,2,1,10,16,1,3,5,6,26,41
+Mara Neira,#2,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,14,0,6,6,2,2,0,2,2,0,3,0,3,0,0,0,11
+Sophia Priestley,#32,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,4,0,1,1,0,0,0,0,0,1,1,0,0,0,0,2,5
+Natasa Tausova,#12,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,21,2,2,4,0,0,0,3,3,1,5,1,3,0,0,3,-2
+Nevaeh Ferrara Horne,#7,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,31,4,7,11,1,2,0,3,2,2,7,0,0,1,2,5,18
+Michelle Ugwah,#14,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,13,1,0,1,0,1,1,3,5,1,6,0,0,0,0,2,1
+Amy Pateman,#10,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Paula Tirado,#22,San Francisco Dons,UNC Greensboro Spartans,1,11/05/25,18,0,3,3,3,1,0,1,2,0,1,0,0,0,0,0,14
+Ellie DeWaard,#22,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,21,1,3,4,1,3,1,5,2,0,8,0,3,0,0,0,1
+Ella Whitaker,#10,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,27,3,3,6,0,2,0,0,2,5,8,1,3,0,0,11,26
+Jersey McGehee,#12,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,22,1,1,2,2,1,0,4,3,1,4,1,3,0,0,3,4
+Ellie Bost,#4,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,23,1,3,4,2,2,0,5,2,3,10,1,6,1,2,8,7
+Kaleah Medeiros,#0,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,30,1,3,4,3,2,1,1,0,7,11,1,2,1,2,16,40
+Taimane Auwae,#21,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,13,1,2,3,0,0,0,1,2,0,4,0,0,0,0,0,-3
+Griffyn Eyman,#5,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,15,0,1,1,0,0,0,3,1,1,5,0,1,1,2,3,-7
+Halle Keller,#30,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,8,0,5,5,0,1,0,3,1,0,2,0,0,3,4,3,3
+Hailey Monte,#23,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,17,0,0,0,0,0,0,1,2,3,10,3,7,0,0,9,2
+Kamille Febo-Santiago,#20,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,2,0,1,1,0,1,0,0,2,0,0,0,0,0,0,0,5
+Hope Keller,#14,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Adriana Milanez,#2,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,11,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,2
+Faith Dumlao,#1,Northwest University Eagles,Seattle U Redhawks,0,11/05/25,4,0,1,1,1,0,0,0,0,1,2,1,2,0,0,3,7
+Andjela Bigovic,#6,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,16,2,6,8,1,0,0,0,1,5,13,0,0,0,0,10,19
+Tamia Stricklin,#14,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,13,2,7,9,1,1,0,1,2,2,3,2,3,0,2,6,21
+Dylan Mogel,#5,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,26,1,1,2,7,3,0,1,0,2,4,0,0,0,0,4,38
+Sydnie Rodriguez,#24,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,17,2,3,5,0,3,0,3,0,2,6,0,3,3,3,7,14
+Ella Brubaker,#3,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,23,3,4,7,0,1,0,4,2,7,14,0,3,3,4,17,17
+Fia Proctor,#4,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,14,1,2,3,0,0,0,0,1,3,5,1,1,0,0,7,13
+Lucija Milkovic,#7,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,9,0,3,3,0,0,0,1,2,3,4,0,0,0,0,6,10
+Jana Vesic,#9,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,25,0,1,1,7,0,0,1,4,5,9,1,3,1,4,12,30
+Chloe Emanga,#8,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,24,3,3,6,0,1,0,3,2,5,11,0,1,2,3,12,14
+Aaliyah Ibarra,#21,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,12,0,1,1,0,3,0,1,1,0,2,0,2,1,2,1,8
+Lucy Larson,#22,Seattle U Redhawks,Northwest University Eagles,1,11/05/25,21,0,1,1,2,2,0,2,1,1,4,1,4,1,2,4,11
+Tanja Valancic,#9,Washington State Cougars,UNLV Lady Rebels,0,11/05/25,27,3,5,8,3,1,0,1,3,2,5,1,3,2,2,7,24
+Alex Covill,#33,Washington State Cougars,UNLV Lady Rebels,0,11/05/25,28,3,2,5,0,0,3,6,4,3,7,0,0,0,0,6,7
+Charlotte Abraham,#10,Washington State Cougars,UNLV Lady Rebels,0,11/05/25,31,3,2,5,3,0,0,1,3,4,12,2,8,0,0,10,14
+Mackenzie Chatfield,#8,Washington State Cougars,UNLV Lady Rebels,0,11/05/25,15,0,3,3,1,1,1,0,3,0,2,0,0,0,0,0,11
+Eleonora Villa,#2,Washington State Cougars,UNLV Lady Rebels,0,11/05/25,33,0,1,1,3,1,0,5,2,8,15,0,3,3,4,19,20
+Malia Ruud,#55,Washington State Cougars,UNLV Lady Rebels,0,11/05/25,14,1,2,3,0,0,2,3,2,2,3,0,0,0,0,4,8
+Malvina Haziri,#1,Washington State Cougars,UNLV Lady Rebels,0,11/05/25,13,0,1,1,1,0,0,0,1,1,2,1,2,0,0,3,7
+Keandra Koorits,#15,Washington State Cougars,UNLV Lady Rebels,0,11/05/25,17,0,1,1,2,1,1,1,5,1,6,0,2,0,0,2,8
+Marta Alsina,#12,Washington State Cougars,UNLV Lady Rebels,0,11/05/25,16,0,1,1,0,0,0,3,1,0,4,0,2,0,0,0,-11
+Jean Chiu,#5,Washington State Cougars,UNLV Lady Rebels,0,11/05/25,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meadow Roland,#32,UNLV Lady Rebels,Washington State Cougars,1,11/05/25,32,2,7,9,0,1,0,2,4,7,13,0,0,3,4,17,27
+Shelbee Brown,#3,UNLV Lady Rebels,Washington State Cougars,1,11/05/25,25,3,3,6,1,4,0,4,1,1,4,0,0,2,2,4,20
+Teagan Colvin,#0,UNLV Lady Rebels,Washington State Cougars,1,11/05/25,32,2,5,7,3,0,0,1,2,0,5,0,0,0,2,0,8
+Jasmyn Lott,#10,UNLV Lady Rebels,Washington State Cougars,1,11/05/25,29,0,1,1,0,0,0,0,2,4,12,1,3,8,8,17,14
+Aaliyah Alexander,#25,UNLV Lady Rebels,Washington State Cougars,1,11/05/25,32,2,0,2,3,1,0,1,1,4,13,1,5,9,10,18,23
+Destiny Brown,#5,UNLV Lady Rebels,Washington State Cougars,1,11/05/25,20,1,4,5,0,1,2,3,3,1,2,0,0,0,1,2,11
+Erica Collins,#31,UNLV Lady Rebels,Washington State Cougars,1,11/05/25,3,3,0,3,0,0,0,1,1,0,1,0,0,2,2,2,3
+Mariah Elohim,#2,UNLV Lady Rebels,Washington State Cougars,1,11/05/25,20,0,2,2,1,1,0,0,0,2,5,0,1,0,0,4,12
+Destiny Leo,#7,UNLV Lady Rebels,Washington State Cougars,1,11/05/25,7,0,0,0,1,1,0,0,0,0,2,0,2,0,0,0,4
+Tessa Chaney,#34,Utah Valley Wolverines,Loyola Marymount Lions,1,11/05/25,27,2,1,3,0,1,1,4,1,6,12,0,0,1,2,13,15
+Cambree Blackham,#5,Utah Valley Wolverines,Loyola Marymount Lions,1,11/05/25,35,0,1,1,7,6,1,6,2,3,9,0,3,2,4,8,38
+Kylee Mabry,#1,Utah Valley Wolverines,Loyola Marymount Lions,1,11/05/25,33,1,1,2,3,3,0,3,2,4,11,2,5,0,1,10,23
+Amanda Barcello,#3,Utah Valley Wolverines,Loyola Marymount Lions,1,11/05/25,37,0,3,3,4,2,0,1,1,4,11,2,6,2,2,12,29
+Halle Nelson,#25,Utah Valley Wolverines,Loyola Marymount Lions,1,11/05/25,34,0,5,5,4,3,0,0,3,3,7,1,2,1,2,8,36
+Kaylee Headrick,#14,Utah Valley Wolverines,Loyola Marymount Lions,1,11/05/25,14,0,5,5,0,0,1,1,1,2,5,1,2,1,2,6,11
+Naia Tanuvasa,#21,Utah Valley Wolverines,Loyola Marymount Lions,1,11/05/25,3,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+Saige Gibb,#10,Utah Valley Wolverines,Loyola Marymount Lions,1,11/05/25,17,1,1,2,0,0,1,1,2,3,3,1,1,0,0,7,15
+Maya Hernandez,#55,Loyola Marymount Lions,Utah Valley Wolverines,0,11/05/25,30,1,7,8,1,0,1,2,2,5,9,0,0,1,2,11,21
+Ivana Krajina,#13,Loyola Marymount Lions,Utah Valley Wolverines,0,11/05/25,36,0,4,4,4,3,1,4,4,5,11,4,7,1,2,15,37
+Jess Lawson,#0,Loyola Marymount Lions,Utah Valley Wolverines,0,11/05/25,29,2,6,8,1,1,0,2,3,2,8,0,1,1,2,5,10
+Andjela Matic,#28,Loyola Marymount Lions,Utah Valley Wolverines,0,11/05/25,39,0,6,6,4,0,0,7,1,3,10,1,7,0,2,7,0
+Carly Heidger,#5,Loyola Marymount Lions,Utah Valley Wolverines,0,11/05/25,29,0,2,2,4,2,0,3,1,3,5,1,3,5,5,12,28
+Kayla Jones,#24,Loyola Marymount Lions,Utah Valley Wolverines,0,11/05/25,21,2,0,2,3,0,0,4,2,3,3,0,0,2,2,8,14
+Zawadi Ogot,#54,Loyola Marymount Lions,Utah Valley Wolverines,0,11/05/25,11,1,1,2,0,0,0,2,3,1,4,0,0,0,0,2,-2
+Mari Somvichian,#2,Loyola Marymount Lions,Utah Valley Wolverines,0,11/05/25,5,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,-4
+Ava Schmidt,#13,Santa Clara Broncos,Stanford Cardinal,0,11/06/25,28,0,3,3,1,1,1,2,3,4,9,3,7,0,0,11,18
+Kylee Fox,#30,Santa Clara Broncos,Stanford Cardinal,0,11/06/25,27,1,1,2,0,0,0,0,0,2,5,0,2,0,0,4,3
+Sophie Glancey,#12,Santa Clara Broncos,Stanford Cardinal,0,11/06/25,24,1,5,6,1,1,1,1,3,4,14,1,3,0,2,9,14
+Ashley Hawkins,#23,Santa Clara Broncos,Stanford Cardinal,0,11/06/25,34,0,5,5,5,0,0,0,2,2,8,1,3,4,4,9,24
+Maia Jones,#9,Santa Clara Broncos,Stanford Cardinal,0,11/06/25,25,0,3,3,1,2,0,2,2,4,11,2,5,6,6,16,22
+Tyler Gildersleeve-Stiles,#34,Santa Clara Broncos,Stanford Cardinal,0,11/06/25,19,1,1,2,2,4,1,1,3,3,6,0,0,0,0,6,31
+Delainey Miller,#20,Santa Clara Broncos,Stanford Cardinal,0,11/06/25,11,0,1,1,0,0,1,1,1,0,2,0,0,1,4,1,-2
+Kate Schat,#3,Santa Clara Broncos,Stanford Cardinal,0,11/06/25,3,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Aniya Hooker,#2,Santa Clara Broncos,Stanford Cardinal,0,11/06/25,29,0,2,2,0,0,0,1,1,1,5,0,2,0,0,2,-3
+Lara Somfai,#12,Stanford Cardinal,Santa Clara Broncos,1,11/06/25,25,2,11,13,0,0,1,3,3,3,9,1,3,7,8,14,20
+Courtney Ogden,#40,Stanford Cardinal,Santa Clara Broncos,1,11/06/25,11,0,0,0,0,0,1,1,1,0,1,0,0,0,2,0,-1
+Nunu Agara,#3,Stanford Cardinal,Santa Clara Broncos,1,11/06/25,31,0,9,9,4,0,0,1,1,3,11,1,4,6,7,13,25
+Hailee Swain,#2,Stanford Cardinal,Santa Clara Broncos,1,11/06/25,33,1,2,3,4,1,0,5,1,6,15,1,2,0,0,13,20
+Talana Lepolo,#10,Stanford Cardinal,Santa Clara Broncos,1,11/06/25,39,0,0,0,4,2,0,1,2,5,10,4,6,2,2,16,37
+Alexandra Eschmeyer,#4,Stanford Cardinal,Santa Clara Broncos,1,11/06/25,22,5,7,12,0,0,4,0,0,5,6,1,1,0,1,11,40
+Mary Ashley Stevenson,#22,Stanford Cardinal,Santa Clara Broncos,1,11/06/25,6,0,2,2,0,0,0,1,1,0,0,0,0,0,0,0,1
+Shay Ijiwoye,#6,Stanford Cardinal,Santa Clara Broncos,1,11/06/25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Chloe Clardy,#13,Stanford Cardinal,Santa Clara Broncos,1,11/06/25,33,0,3,3,3,3,0,1,4,4,10,3,6,1,2,12,32
+Emi Bishop,#21,Corban University Warriors,Oregon State Beavers,0,11/07/25,24,5,6,11,0,2,1,3,1,6,19,0,0,0,0,12,21
+Jersey Huerta,#2,Corban University Warriors,Oregon State Beavers,0,11/07/25,23,1,2,3,2,0,0,3,4,3,9,2,4,2,2,10,10
+Tayla Yost,#23,Corban University Warriors,Oregon State Beavers,0,11/07/25,23,0,2,2,1,0,1,3,1,0,2,0,0,0,0,0,0
+Jenna Albrecht,#22,Corban University Warriors,Oregon State Beavers,0,11/07/25,26,0,2,2,2,3,0,2,0,3,7,2,4,0,0,8,23
+Tori Younker,#15,Corban University Warriors,Oregon State Beavers,0,11/07/25,19,0,3,3,0,0,0,2,1,1,5,0,3,0,0,2,-5
+Hope Hillyer,#34,Corban University Warriors,Oregon State Beavers,0,11/07/25,2,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+Haley Ferry,#32,Corban University Warriors,Oregon State Beavers,0,11/07/25,16,0,2,2,0,0,0,0,4,3,7,2,4,0,0,8,9
+Lucy Nyborg,#10,Corban University Warriors,Oregon State Beavers,0,11/07/25,4,0,1,1,0,0,1,3,1,0,0,0,0,0,0,0,-2
+Mandie Jensen,#14,Corban University Warriors,Oregon State Beavers,0,11/07/25,17,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,-1
+Izzy McCauley,#13,Corban University Warriors,Oregon State Beavers,0,11/07/25,20,0,2,2,0,1,0,2,0,1,3,0,1,0,0,2,2
+Kylie Ihrig,#5,Corban University Warriors,Oregon State Beavers,0,11/07/25,26,0,0,0,2,1,0,2,2,1,9,1,6,0,0,3,-2
+Nene Sow,#32,Oregon State Beavers,Corban University Warriors,1,11/07/25,13,2,4,6,0,0,3,0,0,2,5,0,0,0,0,4,19
+Ally Schimel,#4,Oregon State Beavers,Corban University Warriors,1,11/07/25,25,0,2,2,1,2,0,1,0,4,13,3,7,0,0,11,17
+Jenna Villa,#3,Oregon State Beavers,Corban University Warriors,1,11/07/25,21,1,2,3,1,0,2,2,0,1,3,0,2,0,0,2,8
+Kennedie Shuler,#1,Oregon State Beavers,Corban University Warriors,1,11/07/25,27,0,5,5,5,1,3,0,2,4,7,0,2,2,6,10,39
+Tiara Bolden,#0,Oregon State Beavers,Corban University Warriors,1,11/07/25,29,2,5,7,3,6,0,2,0,5,13,2,5,1,1,13,46
+Lara Alonso-Basurto,#22,Oregon State Beavers,Corban University Warriors,1,11/07/25,25,6,5,11,2,0,3,4,2,4,12,1,3,5,6,14,27
+Elisa Mehyar,#16,Oregon State Beavers,Corban University Warriors,1,11/07/25,8,0,1,1,0,0,0,0,0,2,3,0,0,0,0,4,7
+Susana Yepes,#10,Oregon State Beavers,Corban University Warriors,1,11/07/25,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4
+Lizzy Williamson,#15,Oregon State Beavers,Corban University Warriors,1,11/07/25,15,4,3,7,1,0,1,0,0,4,6,0,0,2,2,10,26
+Keira Lindemans,#25,Oregon State Beavers,Corban University Warriors,1,11/07/25,7,0,2,2,1,2,0,0,0,2,4,0,1,1,1,5,18
+Katelyn Field,#2,Oregon State Beavers,Corban University Warriors,1,11/07/25,7,0,0,0,0,0,1,1,0,2,3,1,2,0,0,5,8
+Cloe Vecina,#31,Oregon State Beavers,Corban University Warriors,1,11/07/25,16,1,0,1,2,2,1,0,2,4,5,0,0,0,1,8,29
+Mackenzie Shivers,#12,Oregon State Beavers,Corban University Warriors,1,11/07/25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Madison Parry,#24,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,28,1,7,8,1,1,0,1,3,3,10,2,6,4,4,12,19
+Meadow Aragon,#30,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,26,1,3,4,1,3,0,0,2,5,11,0,0,2,4,12,28
+Kamil Reid,#12,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,22,3,1,4,2,0,0,3,2,2,7,1,4,2,2,7,6
+Jiana Creswell,#10,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,21,0,2,2,1,0,0,0,0,0,2,0,0,0,0,0,3
+Nseije Ortiz,#23,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,20,0,1,1,1,1,0,5,3,2,2,1,1,0,1,5,5
+Juliette James,#41,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,-2
+Torrence Harter,#40,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,7,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,-2
+Sadie Slaughter,#20,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,8,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,4
+Ivy Gonzalez,#11,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,25,0,2,2,1,2,0,1,0,2,7,0,3,1,2,5,9
+Sydney Peterson,#4,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,20,0,3,3,2,0,0,4,1,2,5,0,1,1,2,5,3
+Laila Florvilus,#3,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,3,0,0,0,0,0,0,3,1,0,1,0,1,0,0,0,-8
+Kaylie Edge,#33,Chico State Wildcats,Saint Mary's Gaels,0,11/07/25,17,1,2,3,0,0,0,1,2,1,3,1,3,0,0,3,2
+Edie Clarke,#7,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,17,5,1,6,1,2,0,1,0,6,7,1,1,0,0,13,35
+Abigail Shoff,#5,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,20,2,3,5,0,2,0,1,2,2,7,2,5,0,0,6,14
+Georgia Grigoropoulou,#10,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,13,2,0,2,0,0,0,3,0,2,3,0,0,1,3,5,1
+Emily Foy,#8,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,17,2,1,3,1,0,0,2,1,3,7,0,3,0,0,6,5
+Malia Latu,#13,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,25,1,5,6,4,1,0,1,2,3,12,0,2,0,0,6,19
+Melesungu Afeaki,#22,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,15,0,1,1,1,0,0,1,1,4,5,0,0,1,2,9,14
+Addi Wedin,#23,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,17,1,3,4,2,1,0,1,1,1,7,0,5,2,2,4,7
+Mauriana Hashemian-Orr,#3,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,13,3,2,5,2,2,0,1,3,3,9,0,0,3,4,9,23
+Amy Kurkowski,#2,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,13,1,0,1,0,0,0,0,1,1,3,1,3,3,4,6,5
+Jada Hunter,#0,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,26,1,4,5,4,2,0,0,3,0,0,0,0,3,4,3,28
+Ella Wedin,#33,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,10,0,1,1,1,1,0,1,0,0,4,0,4,0,0,0,-1
+Charlece Ohiaeri,#4,Saint Mary's Gaels,Chico State Wildcats,1,11/07/25,14,1,4,5,1,0,0,1,1,0,4,0,3,0,0,0,0
+Addison Harris,#33,Montana State Bobcats,Portland Pilots,1,11/07/25,32,0,4,4,0,2,0,4,2,7,11,1,3,3,4,18,24
+Ella Johnson,#5,Montana State Bobcats,Portland Pilots,1,11/07/25,12,1,0,1,2,1,0,1,3,1,1,1,1,0,0,3,15
+Jamison Philip,#12,Montana State Bobcats,Portland Pilots,1,11/07/25,26,3,1,4,3,4,1,3,4,1,5,0,3,6,6,8,29
+Taylee Chirrick,#44,Montana State Bobcats,Portland Pilots,1,11/07/25,26,1,2,3,7,6,0,5,3,8,10,0,0,7,9,23,66
+Isobel Bunyan,#15,Montana State Bobcats,Portland Pilots,1,11/07/25,12,0,0,0,2,0,0,0,2,1,4,0,2,0,0,2,5
+Kadynce Couture,#24,Montana State Bobcats,Portland Pilots,1,11/07/25,12,0,1,1,1,0,0,0,2,1,2,0,0,1,2,3,7
+Brianne Bailey,#21,Montana State Bobcats,Portland Pilots,1,11/07/25,27,1,0,1,4,3,0,6,3,4,8,0,1,2,4,10,21
+Grace Hintz,#13,Montana State Bobcats,Portland Pilots,1,11/07/25,5,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,-2
+Heidi Smith,#9,Montana State Bobcats,Portland Pilots,1,11/07/25,22,0,3,3,0,0,1,2,0,2,7,0,0,1,2,5,4
+Brooke Fatupaito,#20,Montana State Bobcats,Portland Pilots,1,11/07/25,26,3,6,9,0,1,0,2,2,5,7,0,0,4,4,14,27
+Lainey Spear,#20,Portland Pilots,Montana State Bobcats,0,11/07/25,19,0,3,3,2,2,0,3,5,0,1,0,0,0,0,0,10
+Julia Dalan,#44,Portland Pilots,Montana State Bobcats,0,11/07/25,16,1,0,1,0,0,3,0,2,2,5,0,1,0,0,4,12
+Rhyan Mogel,#22,Portland Pilots,Montana State Bobcats,0,11/07/25,30,1,2,3,4,2,0,4,3,5,8,1,2,6,6,17,34
+Dyani Ananiev,#2,Portland Pilots,Montana State Bobcats,0,11/07/25,27,1,1,2,1,4,0,6,4,4,12,2,8,2,3,12,12
+Florence Dallow,#3,Portland Pilots,Montana State Bobcats,0,11/07/25,27,2,2,4,3,1,0,2,3,4,9,1,4,7,8,16,25
+Ella Zimmerman,#42,Portland Pilots,Montana State Bobcats,0,11/07/25,5,1,1,2,0,0,0,0,1,0,0,0,0,0,0,0,2
+Jada Kennedy,#9,Portland Pilots,Montana State Bobcats,0,11/07/25,4,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0
+Aubrey Herrin,#5,Portland Pilots,Montana State Bobcats,0,11/07/25,16,2,4,6,1,0,0,1,1,0,1,0,0,2,2,2,8
+Brynn Smith,#12,Portland Pilots,Montana State Bobcats,0,11/07/25,11,0,1,1,0,0,0,6,1,2,4,0,2,2,2,6,-7
+Tiffany Barbosa,#7,Portland Pilots,Montana State Bobcats,0,11/07/25,11,0,2,2,2,0,0,3,2,3,5,2,4,0,0,8,11
+Natalie Fraley,#10,Portland Pilots,Montana State Bobcats,0,11/07/25,29,0,1,1,1,2,0,3,2,2,6,1,4,0,0,5,7
+Nicole Anderson,#17,Portland Pilots,Montana State Bobcats,0,11/07/25,5,0,0,0,0,0,0,1,0,1,5,0,2,0,0,2,-5
+Lauren Whittaker,#33,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,18,1,8,9,0,1,0,2,3,4,6,0,1,5,6,13,23
+Taylor Smith,#20,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,25,0,1,1,2,1,0,2,4,2,3,0,0,0,0,4,13
+Zeryhia Aokuso,#55,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,21,0,1,1,2,1,0,1,2,6,10,1,1,1,2,14,26
+Allie Turner,#11,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,32,0,3,3,2,0,0,2,1,6,11,4,5,2,2,18,28
+Ines Bettencourt,#8,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,28,1,3,4,4,2,0,1,3,5,12,2,2,0,0,12,35
+Jaiden Haile,#23,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,14,3,3,6,2,0,0,1,1,2,6,0,0,0,2,4,11
+McKynnlie Dalan,#22,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,17,2,1,3,0,0,0,1,2,0,2,0,0,2,2,2,2
+Sierra Lichtie,#4,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,5,0,1,1,0,1,0,1,3,1,1,0,0,1,2,3,7
+Julia Wilson,#3,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,15,0,0,0,0,0,0,1,3,2,6,1,2,3,5,8,3
+Paige Lofing,#1,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,12,0,1,1,0,0,0,1,1,0,1,0,1,0,0,0,-2
+Teryn Gardner,#24,Gonzaga Bulldogs,North Dakota State Bison,1,11/07/25,13,1,3,4,0,1,0,2,4,1,2,0,0,1,2,3,7
+Avery Koenen,#22,North Dakota State Bison,Gonzaga Bulldogs,0,11/07/25,27,2,5,7,0,0,0,1,4,6,9,0,0,5,8,17,22
+Marisa Frost,#12,North Dakota State Bison,Gonzaga Bulldogs,0,11/07/25,30,0,2,2,4,0,0,2,3,1,4,0,1,9,10,11,17
+Jocelyn Schiller,#30,North Dakota State Bison,Gonzaga Bulldogs,0,11/07/25,34,2,1,3,2,3,0,3,2,5,11,0,2,4,5,14,25
+Abby Krzewinski,#40,North Dakota State Bison,Gonzaga Bulldogs,0,11/07/25,22,2,3,5,1,1,0,1,2,3,10,1,6,0,0,7,9
+Molly Lenz,#1,North Dakota State Bison,Gonzaga Bulldogs,0,11/07/25,23,0,1,1,0,1,0,2,3,4,10,1,5,0,1,9,4
+Karrington Asp,#15,North Dakota State Bison,Gonzaga Bulldogs,0,11/07/25,24,0,4,4,0,1,1,2,3,2,5,0,1,0,2,4,7
+Lily Niebuhr,#31,North Dakota State Bison,Gonzaga Bulldogs,0,11/07/25,7,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0,1
+Amelia Hobson,#8,North Dakota State Bison,Gonzaga Bulldogs,0,11/07/25,21,0,0,0,1,1,0,1,1,1,3,1,3,1,2,4,6
+Abby Graham,#10,North Dakota State Bison,Gonzaga Bulldogs,0,11/07/25,12,0,1,1,0,0,0,2,2,0,2,0,2,0,0,0,-7
+Emma Johansson,#14,California Baptist Lancers,Pacific Tigers,1,11/08/25,37,1,12,13,0,3,4,3,4,5,11,2,6,2,3,14,42
+CeCe Legaspi,#27,California Baptist Lancers,Pacific Tigers,1,11/08/25,20,1,3,4,3,2,0,3,3,0,4,0,4,2,4,2,8
+Khloe Lemon,#24,California Baptist Lancers,Pacific Tigers,1,11/08/25,10,1,0,1,0,0,0,0,1,1,5,0,1,0,0,2,0
+Filipa Barros,#5,California Baptist Lancers,Pacific Tigers,1,11/08/25,32,3,8,11,3,5,0,5,1,2,4,0,1,2,2,6,36
+Chance Bucher,#10,California Baptist Lancers,Pacific Tigers,1,11/08/25,24,1,2,3,1,0,0,3,2,2,7,1,3,3,3,8,5
+Lauren Olsen,#13,California Baptist Lancers,Pacific Tigers,1,11/08/25,28,1,2,3,0,4,0,2,3,11,18,4,7,1,1,27,48
+Reyleigh Hess,#4,California Baptist Lancers,Pacific Tigers,1,11/08/25,23,0,2,2,2,0,0,2,1,1,6,1,3,0,0,3,3
+Shawnee Nordstrom,#3,California Baptist Lancers,Pacific Tigers,1,11/08/25,8,1,0,1,0,0,0,2,1,1,3,1,1,0,0,3,1
+Sofia Alonso,#11,California Baptist Lancers,Pacific Tigers,1,11/08/25,18,0,2,2,2,0,0,4,0,1,5,0,4,0,0,2,-4
+Winner Bartholomew,#25,Pacific Tigers,California Baptist Lancers,0,11/08/25,33,2,3,5,1,2,0,6,1,10,18,1,1,3,3,24,31
+Daria Nestorov,#21,Pacific Tigers,California Baptist Lancers,0,11/08/25,37,1,3,4,7,4,0,1,3,4,19,3,10,1,2,12,35
+Marina Radocaj,#9,Pacific Tigers,California Baptist Lancers,0,11/08/25,17,1,6,7,1,1,0,6,2,1,3,0,0,0,0,2,3
+Stella Szabo,#5,Pacific Tigers,California Baptist Lancers,0,11/08/25,35,0,8,8,1,0,0,1,0,3,9,2,6,0,0,8,12
+Sydney Ward,#10,Pacific Tigers,California Baptist Lancers,0,11/08/25,25,4,5,9,1,2,1,2,4,0,4,0,1,1,2,1,14
+Luisa Anderegg,#11,Pacific Tigers,California Baptist Lancers,0,11/08/25,12,3,0,3,0,0,0,0,1,0,3,0,1,0,0,0,-1
+Sophia Mindermann,#8,Pacific Tigers,California Baptist Lancers,0,11/08/25,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Liv Yergensen,#7,Pacific Tigers,California Baptist Lancers,0,11/08/25,24,0,3,3,3,0,0,4,0,1,7,0,4,2,4,4,-3
+Hannah Burg,#3,Pacific Tigers,California Baptist Lancers,0,11/08/25,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Mali Ennis,#2,Pacific Tigers,California Baptist Lancers,0,11/08/25,4,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1
+Nyah Lowery,#15,Pacific Tigers,California Baptist Lancers,0,11/08/25,8,1,0,1,0,0,0,1,2,1,5,1,2,0,0,3,-1
+Tanja Valancic,#9,Washington State Cougars,Southern Utah Thunderbirds,0,11/08/25,18,0,2,2,3,0,0,2,5,1,3,1,3,3,4,6,10
+Charlotte Abraham,#10,Washington State Cougars,Southern Utah Thunderbirds,0,11/08/25,27,2,8,10,1,0,0,4,2,3,12,2,10,1,2,9,1
+Keandra Koorits,#15,Washington State Cougars,Southern Utah Thunderbirds,0,11/08/25,28,0,1,1,1,0,1,1,3,2,7,1,5,2,2,7,6
+Mackenzie Chatfield,#8,Washington State Cougars,Southern Utah Thunderbirds,0,11/08/25,28,1,2,3,3,1,0,1,2,1,5,0,0,1,2,3,13
+Eleonora Villa,#2,Washington State Cougars,Southern Utah Thunderbirds,0,11/08/25,39,0,2,2,4,1,0,1,0,8,14,3,6,2,2,21,39
+Malia Ruud,#55,Washington State Cougars,Southern Utah Thunderbirds,0,11/08/25,31,1,1,2,0,0,1,3,2,7,8,0,1,0,0,14,18
+Malvina Haziri,#1,Washington State Cougars,Southern Utah Thunderbirds,0,11/08/25,11,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,-2
+Marta Alsina,#12,Washington State Cougars,Southern Utah Thunderbirds,0,11/08/25,17,0,0,0,1,1,0,0,1,1,5,0,0,1,1,3,7
+Jean Chiu,#5,Washington State Cougars,Southern Utah Thunderbirds,0,11/08/25,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0
+Brooklyn Fely,#4,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,29,4,9,13,3,1,1,4,2,7,16,0,3,6,8,20,35
+Ava Uhrich,#44,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,30,1,8,9,3,0,1,0,3,5,11,0,1,1,2,11,30
+Devyn Kiernan,#22,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,31,0,1,1,3,1,0,2,3,3,9,2,6,0,0,8,14
+Sierra Chambers,#3,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,34,0,1,1,6,0,0,2,2,6,15,3,7,2,2,17,29
+Kortney Doman,#1,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,27,1,4,5,1,2,0,0,4,3,6,1,2,4,4,11,28
+Olivia Malafu,#35,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,13,5,1,6,0,0,0,1,2,2,5,0,0,1,2,5,8
+Denver Anderson,#34,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,8,1,0,1,2,0,0,0,2,1,1,0,0,0,0,2,11
+Ashley Banks,#13,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,7,0,4,4,1,0,0,1,1,1,1,0,0,0,0,2,9
+Morgan Trigueiro,#11,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,10,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,-3
+Bella Hasan,#2,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,6,0,0,0,1,0,0,0,0,0,0,0,0,1,2,1,4
+Charli Kay,#5,Southern Utah Thunderbirds,Washington State Cougars,1,11/08/25,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+Dresha Moore,#1,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,13,1,0,1,1,0,0,1,3,1,3,0,1,0,0,2,2
+Helen Holley,#10,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,27,1,1,2,1,3,1,3,3,1,4,0,2,0,2,2,10
+Malia Tharpe,#11,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,13,0,1,1,0,0,0,0,2,0,2,0,1,0,0,0,-2
+Kylie Ray,#6,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,38,1,8,9,3,3,0,9,2,7,22,3,7,3,4,20,22
+Hallie Rhodes,#20,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,30,2,3,5,2,1,2,1,2,5,12,0,1,4,5,14,29
+Eva Ruse,#15,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,26,0,3,3,1,1,1,1,1,1,4,0,2,0,2,2,7
+Ayla Williams,#22,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,11,1,2,3,0,0,1,3,3,0,1,0,0,3,6,3,-1
+Erica Carr,#12,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2
+Olivia Owens,#24,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,18,3,3,6,1,4,0,1,2,0,6,0,2,1,2,1,15
+Lilly Amor,#3,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,17,0,1,1,0,1,0,2,0,2,2,0,0,0,0,4,7
+Jayden Rhodes,#19,San Diego Toreros,Cal State Northridge Matadors,0,11/08/25,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariona Cos-Morales,#24,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,20,1,5,6,0,1,0,2,0,2,6,0,2,0,0,4,7
+Nadia Bernard,#34,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,16,3,1,4,1,0,1,3,6,2,4,0,0,0,0,4,9
+Laini Dahlin,#22,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,9,3,1,4,1,1,0,0,0,2,3,0,0,0,0,4,17
+Rita Nazario,#33,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,34,0,3,3,2,3,0,4,3,7,12,6,9,1,1,21,40
+Erika Aspajo,#12,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,27,1,3,4,5,1,1,4,3,2,9,0,4,0,0,4,14
+Maya Contreras,#23,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,3,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,-1
+Jite Gbemuotor,#0,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,19,3,5,8,0,1,1,0,2,4,7,1,1,2,2,11,29
+Alondra Lizama,#10,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,17,2,1,3,0,0,0,1,0,1,4,0,2,2,2,4,2
+Saray White,#2,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,20,3,2,5,2,1,2,3,2,2,6,1,1,3,4,8,22
+Amya Moody,#1,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,12,0,2,2,3,0,0,1,1,1,4,1,1,0,0,3,12
+Kelly Tumlin,#3,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,3,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,-1
+Morgan Edwards,#4,Cal State Northridge Matadors,San Diego Toreros,1,11/08/25,20,0,2,2,2,1,1,3,1,0,8,0,5,0,0,0,-3
+Molly Garnand,#10,Westmont Warriors,Pepperdine Waves,0,11/08/25,23,3,1,4,0,0,2,0,2,2,7,0,1,2,2,6,12
+Lisa Kiefer,#12,Westmont Warriors,Pepperdine Waves,0,11/08/25,15,2,2,4,1,0,0,2,2,1,1,0,0,2,2,4,8
+Bailey Fong,#5,Westmont Warriors,Pepperdine Waves,0,11/08/25,25,0,0,0,0,1,0,0,1,1,9,1,4,2,4,5,-2
+Sage Kramer,#3,Westmont Warriors,Pepperdine Waves,0,11/08/25,25,1,2,3,1,1,1,2,1,2,7,1,2,2,2,7,13
+Mariah Brown,#2,Westmont Warriors,Pepperdine Waves,0,11/08/25,30,0,2,2,4,0,0,3,1,3,7,2,3,0,0,8,16
+Jazmyn Shipp,#22,Westmont Warriors,Pepperdine Waves,0,11/08/25,25,1,5,6,0,2,1,1,2,5,9,2,4,1,2,13,28
+Annie Gibbons,#4,Westmont Warriors,Pepperdine Waves,0,11/08/25,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2
+Skyler Knight,#25,Westmont Warriors,Pepperdine Waves,0,11/08/25,18,0,3,3,1,0,0,1,0,0,5,0,5,2,2,2,-4
+Navine Mallon,#24,Westmont Warriors,Pepperdine Waves,0,11/08/25,14,0,0,0,0,0,0,0,1,1,1,1,1,0,0,3,5
+Noemie Bariteau,#1,Westmont Warriors,Pepperdine Waves,0,11/08/25,22,0,3,3,3,1,0,2,1,0,7,0,4,3,4,3,3
+Shorna Preston,#12,Pepperdine Waves,Westmont Warriors,1,11/08/25,21,5,4,9,2,1,2,2,1,3,9,0,3,0,0,6,22
+Irune Orio,#31,Pepperdine Waves,Westmont Warriors,1,11/08/25,22,2,3,5,2,0,0,1,2,0,3,0,2,0,0,0,5
+Ellison Guiney,#2,Pepperdine Waves,Westmont Warriors,1,11/08/25,25,3,2,5,3,0,0,1,1,6,10,3,4,0,0,15,32
+Taija Sta. Maria,#1,Pepperdine Waves,Westmont Warriors,1,11/08/25,30,0,2,2,3,2,0,0,1,3,3,0,0,0,2,6,27
+Meghan Fiso,#13,Pepperdine Waves,Westmont Warriors,1,11/08/25,20,1,6,7,2,1,0,3,1,3,6,1,1,2,2,9,22
+Zoe Shanahan,#44,Pepperdine Waves,Westmont Warriors,1,11/08/25,9,0,0,0,1,0,0,1,4,1,2,0,0,2,2,4,6
+Seleh Harmon,#30,Pepperdine Waves,Westmont Warriors,1,11/08/25,25,0,4,4,4,0,0,1,0,3,10,2,6,0,0,8,17
+Quinn VanSickle,#11,Pepperdine Waves,Westmont Warriors,1,11/08/25,9,0,2,2,1,0,0,0,2,2,6,2,5,0,0,6,9
+Ilinca Belegante,#10,Pepperdine Waves,Westmont Warriors,1,11/08/25,4,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,-5
+Bella Green,#3,Pepperdine Waves,Westmont Warriors,1,11/08/25,16,3,4,7,0,2,1,1,4,6,10,1,1,0,0,13,33
+Ivory Finley,#0,Pepperdine Waves,Westmont Warriors,1,11/08/25,19,1,0,1,4,0,0,3,1,3,5,1,3,0,0,7,15
+Lauren Whittaker,#33,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,22,0,6,6,2,0,0,2,3,5,6,0,0,6,6,16,29
+Taylor Smith,#20,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,29,0,5,5,2,1,1,4,3,2,6,0,2,0,0,4,11
+Zeryhia Aokuso,#55,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,20,1,1,2,3,1,0,2,2,3,7,0,1,0,0,6,16
+Allie Turner,#11,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,37,0,1,1,5,0,0,3,0,4,5,2,3,6,6,16,31
+Ines Bettencourt,#8,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,27,1,1,2,2,1,0,1,1,3,8,1,2,2,2,9,18
+Jaiden Haile,#23,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,15,0,2,2,0,0,1,0,1,2,3,0,0,0,1,4,10
+McKynnlie Dalan,#22,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,11,1,1,2,1,1,0,1,1,0,3,0,1,0,0,0,4
+Sierra Lichtie,#4,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,4,1,1,2,1,0,0,1,1,0,0,0,0,0,0,0,4
+Julia Wilson,#3,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,15,0,2,2,0,2,0,1,1,1,3,1,1,2,2,5,14
+Paige Lofing,#1,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Teryn Gardner,#24,Gonzaga Bulldogs,Toledo Rockets,1,11/09/25,18,1,0,1,0,0,0,0,2,4,6,4,6,0,0,12,18
+Evalyse Cole,#10,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,31,2,3,5,1,1,0,0,1,4,9,3,6,1,2,12,22
+Miriam Diala,#21,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,31,2,2,4,4,1,0,2,4,6,8,0,0,2,2,14,34
+Faith Fedd-Robinson,#2,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,27,2,1,3,2,0,1,2,2,5,7,1,1,0,0,11,23
+Kendall Carruthers,#4,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,29,1,2,3,2,3,0,3,3,7,17,1,5,0,0,15,24
+Patricia Anumgba,#8,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,30,1,1,2,4,0,0,0,2,3,9,1,2,0,0,7,18
+Lizzy Puot,#13,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Evyn Carrier,#32,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,6,0,3,3,0,0,0,1,4,0,0,0,0,2,2,2,3
+Elisha Dykstra,#22,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+Cadence Dykstra,#24,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,10,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,-3
+Ella Weaver,#12,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,19,1,2,3,0,3,0,3,3,2,6,1,5,0,0,5,9
+Alexa Hocevar,#5,Toledo Rockets,Gonzaga Bulldogs,0,11/09/25,13,0,0,0,1,0,0,1,0,1,4,1,2,0,0,3,2
+Olivia Bradley,#5,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,23,1,6,7,2,1,2,1,1,6,11,1,3,1,2,14,35
+Zoe Borter,#2,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,24,1,4,5,2,1,0,0,0,8,12,1,3,1,2,18,36
+Zoe Shaw,#23,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,28,1,6,7,4,1,0,0,0,7,11,5,9,0,0,19,47
+Maddie Naro,#12,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,26,1,3,4,2,0,0,0,2,3,4,0,0,2,3,8,20
+Skylar Burke,#55,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,25,0,2,2,4,0,1,0,1,1,7,0,1,0,0,2,14
+Júlia Puente-Valverde,#4,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,11,0,3,3,1,1,0,1,4,2,5,0,1,0,0,4,11
+Helena Shum-Koubek,#22,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,3,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2,3
+Valentina Penna,#21,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,3,1,0,1,0,0,0,0,0,0,0,0,0,2,2,2,4
+Chauncey Andersen,#15,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,19,1,3,4,2,1,0,1,3,5,9,4,7,0,1,14,28
+Ava Rawlins,#8,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,13,0,1,1,0,0,1,2,1,0,2,0,2,0,0,0,-3
+Malani Mastora,#35,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+Bojana Radnjic,#44,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,6,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,2
+Jessica Grant,#32,UC Santa Barbara Gauchos,Seattle U Redhawks,1,11/09/25,16,0,2,2,3,0,0,2,2,2,3,2,3,0,0,6,16
+Tamia Stricklin,#14,Seattle U Redhawks,UC Santa Barbara Gauchos,0,11/09/25,19,3,7,10,1,0,2,0,2,2,11,0,4,1,1,5,13
+Jana Vesic,#9,Seattle U Redhawks,UC Santa Barbara Gauchos,0,11/09/25,36,0,1,1,3,0,0,5,2,7,13,2,4,1,3,17,16
+Dylan Mogel,#5,Seattle U Redhawks,UC Santa Barbara Gauchos,0,11/09/25,27,0,0,0,1,0,0,0,0,1,3,0,0,0,0,2,4
+Sydnie Rodriguez,#24,Seattle U Redhawks,UC Santa Barbara Gauchos,0,11/09/25,21,1,3,4,1,1,1,4,2,0,3,0,3,2,2,2,2
+Ella Brubaker,#3,Seattle U Redhawks,UC Santa Barbara Gauchos,0,11/09/25,25,0,4,4,0,1,0,3,3,3,8,2,4,5,5,13,13
+Fia Proctor,#4,Seattle U Redhawks,UC Santa Barbara Gauchos,0,11/09/25,13,0,0,0,1,0,0,0,2,0,1,0,1,0,0,0,1
+Lucija Milkovic,#7,Seattle U Redhawks,UC Santa Barbara Gauchos,0,11/09/25,11,1,2,3,0,0,0,2,1,3,5,0,0,0,0,6,6
+Chloe Emanga,#8,Seattle U Redhawks,UC Santa Barbara Gauchos,0,11/09/25,25,0,3,3,0,1,0,0,1,1,8,0,2,0,0,2,1
+Aaliyah Ibarra,#21,Seattle U Redhawks,UC Santa Barbara Gauchos,0,11/09/25,12,0,2,2,0,1,0,0,1,1,3,0,1,0,0,2,6
+Lucy Larson,#22,Seattle U Redhawks,UC Santa Barbara Gauchos,0,11/09/25,11,0,0,0,0,1,0,2,2,0,2,0,2,0,0,0,-4
+Noelia Mourio,#3,San Francisco Dons,Boise State Broncos,0,11/09/25,21,2,5,7,2,0,0,4,1,3,6,0,1,5,10,11,10
+Aina Cargol,#9,San Francisco Dons,Boise State Broncos,0,11/09/25,27,0,1,1,3,1,0,4,0,3,6,2,4,1,2,9,14
+Meghan McIntyre,#4,San Francisco Dons,Boise State Broncos,0,11/09/25,31,0,6,6,3,2,0,3,3,1,8,0,3,1,2,3,10
+Candy Edokpaigbe,#23,San Francisco Dons,Boise State Broncos,0,11/09/25,22,2,0,2,1,1,3,5,5,3,4,2,2,0,2,8,18
+Mara Neira,#2,San Francisco Dons,Boise State Broncos,0,11/09/25,17,2,1,3,1,1,0,1,1,3,10,2,8,0,0,8,8
+Sophia Priestley,#32,San Francisco Dons,Boise State Broncos,0,11/09/25,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,2,4
+Natasa Tausova,#12,San Francisco Dons,Boise State Broncos,0,11/09/25,21,0,0,0,1,2,0,1,1,3,7,0,4,0,2,6,8
+Nevaeh Ferrara Horne,#7,San Francisco Dons,Boise State Broncos,0,11/09/25,13,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,-3
+Michelle Ugwah,#14,San Francisco Dons,Boise State Broncos,0,11/09/25,18,0,6,6,3,2,1,0,4,3,7,0,0,1,2,7,31
+Amy Pateman,#10,San Francisco Dons,Boise State Broncos,0,11/09/25,3,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,-1
+Paula Tirado,#22,San Francisco Dons,Boise State Broncos,0,11/09/25,26,0,0,0,0,0,0,2,2,5,10,3,3,0,0,13,12
+Libby Hutton,#9,Boise State Broncos,San Francisco Dons,1,11/09/25,29,3,6,9,1,0,1,2,3,4,10,0,0,0,0,8,18
+Tatum Thompson,#0,Boise State Broncos,San Francisco Dons,1,11/09/25,29,1,2,3,2,3,0,4,4,5,12,0,0,7,8,17,28
+Natalie Pasco,#32,Boise State Broncos,San Francisco Dons,1,11/09/25,34,0,3,3,1,0,0,0,1,7,11,4,7,4,4,22,33
+Dani Bayes,#4,Boise State Broncos,San Francisco Dons,1,11/09/25,31,3,3,6,5,3,1,3,1,7,15,4,8,2,2,20,50
+Mya Hansen,#14,Boise State Broncos,San Francisco Dons,1,11/09/25,32,0,2,2,9,1,1,5,4,4,6,2,3,2,2,12,42
+Mason Borcherding,#21,Boise State Broncos,San Francisco Dons,1,11/09/25,3,2,2,4,0,0,0,1,1,0,2,0,0,0,0,0,1
+Izzie Harms,#7,Boise State Broncos,San Francisco Dons,1,11/09/25,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,-1
+Josee Steadman,#25,Boise State Broncos,San Francisco Dons,1,11/09/25,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,-2
+Kenna Garza,#22,Boise State Broncos,San Francisco Dons,1,11/09/25,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+Madeline Cooke,#10,Boise State Broncos,San Francisco Dons,1,11/09/25,17,0,3,3,0,0,2,0,0,2,4,0,0,0,0,4,14
+Keirra Thompson,#35,Boise State Broncos,San Francisco Dons,1,11/09/25,6,0,0,0,0,2,0,1,2,0,0,0,0,0,0,0,7
+Jayda Lewis,#24,Boise State Broncos,San Francisco Dons,1,11/09/25,3,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0
+Morgan Maldonado,#3,Boise State Broncos,San Francisco Dons,1,11/09/25,12,0,4,4,0,1,0,2,0,0,0,0,0,0,0,0,5
+Tegan Gaines,#10,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,31,0,4,4,1,0,0,2,0,3,7,2,5,0,0,8,9
+Athena Brombacher,#23,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,30,1,3,4,5,3,2,1,2,2,5,0,0,1,3,5,37
+Anyce Jefferson,#15,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,8,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,2
+Deonna Mayfield,#14,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,14,0,2,2,1,2,0,2,0,1,6,0,1,1,2,3,6
+Geriah Bradley,#5,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,26,0,1,1,1,0,0,6,4,1,8,0,0,0,0,2,-12
+Tiera O'Connor,#11,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2
+Malea Scobie,#12,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,13,0,3,3,0,0,1,1,0,0,2,0,0,0,0,0,2
+Samantha Myhr,#13,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,21,0,1,1,0,1,0,0,1,3,8,3,8,0,0,9,10
+Paris Kaea,#4,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,9,0,0,0,0,1,0,1,1,1,1,0,0,0,0,2,5
+Gianna Dart,#3,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,20,0,4,4,2,3,0,0,2,1,7,1,6,0,0,3,16
+Simone Murray,#2,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,10,2,0,2,0,1,0,0,0,1,4,1,2,0,0,3,7
+Leilani Blecha,#33,San Francisco State Gators,Saint Mary's Gaels,0,11/09/25,13,0,2,2,2,0,0,0,2,1,5,1,3,0,0,3,7
+Edie Clarke,#7,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,17,3,3,6,0,5,1,1,1,4,6,0,0,0,1,8,37
+Abigail Shoff,#5,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,16,2,5,7,4,1,0,1,2,0,7,0,3,0,0,0,12
+Melesungu Afeaki,#22,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,10,1,2,3,1,0,1,0,0,0,3,0,0,0,0,0,7
+Emily Foy,#8,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,18,0,2,2,2,0,0,1,0,3,7,1,3,0,0,7,12
+Malia Latu,#13,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,24,1,1,2,3,1,1,5,1,3,4,0,0,0,0,6,17
+Georgia Grigoropoulou,#10,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,10,2,2,4,0,0,0,0,1,1,1,0,0,3,4,5,10
+Coco Urlacher,#11,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,14,1,1,2,0,1,0,0,1,0,3,0,3,0,0,0,1
+Addi Wedin,#23,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,16,0,3,3,0,0,0,0,0,3,6,3,4,0,0,9,15
+Mauriana Hashemian-Orr,#3,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,18,0,7,7,5,3,0,1,1,5,8,0,1,0,0,10,44
+Amy Kurkowski,#2,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,10,1,2,3,2,0,1,0,0,2,4,1,3,3,3,8,20
+Jada Hunter,#0,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,18,2,2,4,4,1,0,1,2,0,5,0,0,2,2,2,16
+Ella Wedin,#33,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,16,2,0,2,1,0,0,1,0,5,7,4,5,0,0,14,24
+Charlece Ohiaeri,#4,Saint Mary's Gaels,San Francisco State Gators,1,11/09/25,13,1,0,1,0,0,0,1,0,4,8,0,1,0,0,8,7
+Brooke Murrell,#0,Denver Pioneers,Loyola Marymount Lions,0,11/09/25,20,3,3,6,2,1,0,1,4,1,3,0,0,1,2,3,15
+Ana Conde,#13,Denver Pioneers,Loyola Marymount Lions,0,11/09/25,17,2,3,5,1,0,0,0,3,2,4,0,0,2,2,6,14
+Tori Baker,#3,Denver Pioneers,Loyola Marymount Lions,0,11/09/25,25,1,0,1,0,0,0,2,1,2,4,0,1,2,2,6,2
+Coryn Watts,#10,Denver Pioneers,Loyola Marymount Lions,0,11/09/25,38,1,4,5,2,1,0,4,2,9,19,2,8,3,5,23,23
+Laia Monclova,#12,Denver Pioneers,Loyola Marymount Lions,0,11/09/25,28,0,2,2,2,2,0,4,3,2,6,0,1,0,0,4,9
+Teodora Simoncevic,#9,Denver Pioneers,Loyola Marymount Lions,0,11/09/25,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laila McLeod,#1,Denver Pioneers,Loyola Marymount Lions,0,11/09/25,6,0,1,1,0,0,1,1,1,0,2,0,1,0,0,0,-1
+Lily Esparza,#32,Denver Pioneers,Loyola Marymount Lions,0,11/09/25,18,0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,1
+Jocelyn Medina,#15,Denver Pioneers,Loyola Marymount Lions,0,11/09/25,23,2,2,4,1,1,1,4,3,4,9,2,4,2,2,12,17
+Karolina Padilla,#11,Denver Pioneers,Loyola Marymount Lions,0,11/09/25,21,3,1,4,1,0,0,2,1,1,5,1,2,0,0,3,3
+Maya Hernandez,#55,Loyola Marymount Lions,Denver Pioneers,1,11/09/25,34,5,5,10,3,4,3,2,1,11,19,0,1,3,4,25,67
+Ivana Krajina,#13,Loyola Marymount Lions,Denver Pioneers,1,11/09/25,25,0,0,0,1,2,0,3,4,2,4,2,3,0,0,6,13
+Jess Lawson,#0,Loyola Marymount Lions,Denver Pioneers,1,11/09/25,29,2,4,6,2,1,0,0,4,2,8,1,3,3,4,8,19
+Andjela Matic,#28,Loyola Marymount Lions,Denver Pioneers,1,11/09/25,35,2,2,4,6,1,0,0,2,1,6,0,2,3,5,5,24
+Carly Heidger,#5,Loyola Marymount Lions,Denver Pioneers,1,11/09/25,31,2,3,5,3,1,0,1,3,3,7,1,2,1,1,8,24
+Kayla Jones,#24,Loyola Marymount Lions,Denver Pioneers,1,11/09/25,15,0,2,2,2,0,0,2,2,1,6,0,1,0,0,2,2
+Zawadi Ogot,#54,Loyola Marymount Lions,Denver Pioneers,1,11/09/25,12,1,2,3,1,0,0,1,1,2,4,0,0,0,0,4,9
+Mari Somvichian,#2,Loyola Marymount Lions,Denver Pioneers,1,11/09/25,19,0,0,0,0,1,0,1,4,2,4,2,4,0,0,6,9
+Emily Adams,#31,Air Force Falcons,Oregon State Beavers,0,11/10/25,16,0,1,1,0,0,0,2,4,4,10,0,0,0,0,8,3
+Keelie O'Hollaren,#13,Air Force Falcons,Oregon State Beavers,0,11/10/25,35,0,1,1,1,3,0,0,2,5,13,3,8,0,0,13,24
+Jayda McNabb,#10,Air Force Falcons,Oregon State Beavers,0,11/10/25,31,6,1,7,1,2,0,2,3,2,6,0,3,0,0,4,13
+Alexis Cortez,#1,Air Force Falcons,Oregon State Beavers,0,11/10/25,37,1,2,3,1,2,0,0,3,0,8,0,2,0,0,0,4
+Milahnie Perry,#2,Air Force Falcons,Oregon State Beavers,0,11/10/25,29,1,3,4,5,2,1,2,2,3,11,0,3,4,4,10,28
+Bhret Clay,#14,Air Force Falcons,Oregon State Beavers,0,11/10/25,25,2,2,4,0,1,0,1,0,1,3,1,1,0,2,3,7
+Maddy Jensen,#9,Air Force Falcons,Oregon State Beavers,0,11/10/25,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+Marissa Hargrave,#24,Air Force Falcons,Oregon State Beavers,0,11/10/25,7,1,0,1,1,0,0,0,0,0,2,0,1,0,0,0,1
+Jordyn DeVaughn,#0,Air Force Falcons,Oregon State Beavers,0,11/10/25,19,1,2,3,2,1,0,0,4,3,11,0,5,5,7,11,12
+Nene Sow,#32,Oregon State Beavers,Air Force Falcons,1,11/10/25,16,2,7,9,0,0,1,0,0,2,3,0,0,1,2,5,18
+Ally Schimel,#4,Oregon State Beavers,Air Force Falcons,1,11/10/25,34,0,2,2,0,0,0,4,1,4,7,4,6,0,0,12,10
+Jenna Villa,#3,Oregon State Beavers,Air Force Falcons,1,11/10/25,23,0,1,1,3,0,0,0,1,0,2,0,2,0,0,0,7
+Kennedie Shuler,#1,Oregon State Beavers,Air Force Falcons,1,11/10/25,36,0,4,4,8,1,1,4,2,2,6,0,2,1,8,5,22
+Tiara Bolden,#0,Oregon State Beavers,Air Force Falcons,1,11/10/25,33,1,5,6,1,1,0,4,3,8,13,3,7,4,5,23,30
+Lara Alonso-Basurto,#22,Oregon State Beavers,Air Force Falcons,1,11/10/25,31,5,7,12,0,0,1,3,1,4,8,0,3,3,4,11,17
+Lizzy Williamson,#15,Oregon State Beavers,Air Force Falcons,1,11/10/25,15,1,4,5,0,1,1,0,0,2,2,0,0,0,0,4,19
+Keira Lindemans,#25,Oregon State Beavers,Air Force Falcons,1,11/10/25,8,1,1,2,0,0,0,3,0,0,2,0,1,0,0,0,-6
+Cloe Vecina,#31,Oregon State Beavers,Air Force Falcons,1,11/10/25,4,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,-1
+Ava Schmidt,#13,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,24,0,2,2,2,0,1,1,1,5,10,3,6,0,0,13,23
+Kylee Fox,#30,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,29,1,2,3,1,0,0,1,0,6,10,2,5,2,2,16,22
+Sophie Glancey,#12,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,25,1,4,5,0,3,5,1,2,8,10,1,2,3,4,20,56
+Ashley Hawkins,#23,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,27,3,2,5,6,1,0,1,2,5,11,0,3,2,3,12,33
+Maia Jones,#9,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,22,0,2,2,5,1,1,2,4,2,8,1,6,3,4,8,20
+Tyler Gildersleeve-Stiles,#34,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,15,1,4,5,1,1,1,0,5,1,2,0,0,0,0,2,18
+Lauren Grover,#10,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Alana Goodchild,#11,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,4,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+Delainey Miller,#20,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,18,0,4,4,2,4,1,2,3,3,4,0,0,4,4,10,38
+Sienna Grieger,#6,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,2,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+Kate Schat,#3,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,14,0,0,0,1,0,0,1,2,1,6,1,5,0,0,3,-2
+Aniya Hooker,#2,Santa Clara Broncos,Texas A&M-Corpus Christi Islanders,1,11/11/25,18,2,2,4,2,0,0,2,5,0,2,0,0,1,2,1,5
+Rayna Williams,#12,Texas A&M-Corpus Christi Islanders,Santa Clara Broncos,0,11/11/25,20,1,4,5,0,0,0,3,4,1,3,0,0,1,6,3,-4
+K'Nari Holliday,#32,Texas A&M-Corpus Christi Islanders,Santa Clara Broncos,0,11/11/25,16,1,1,2,0,2,0,0,3,1,3,0,0,0,2,2,9
+Samora Watson,#5,Texas A&M-Corpus Christi Islanders,Santa Clara Broncos,0,11/11/25,33,1,8,9,4,2,1,2,4,4,13,0,0,6,10,14,33
+Marissa Shelton,#4,Texas A&M-Corpus Christi Islanders,Santa Clara Broncos,0,11/11/25,31,1,3,4,2,0,1,9,3,3,12,2,5,4,8,12,-4
+Chelsea Wooten,#3,Texas A&M-Corpus Christi Islanders,Santa Clara Broncos,0,11/11/25,34,0,2,2,4,0,0,1,0,2,7,1,5,2,2,7,13
+Torie Sevier,#20,Texas A&M-Corpus Christi Islanders,Santa Clara Broncos,0,11/11/25,16,2,3,5,1,0,1,0,0,3,4,0,0,0,0,6,19
+Asha Walker,#11,Texas A&M-Corpus Christi Islanders,Santa Clara Broncos,0,11/11/25,32,1,0,1,0,0,0,1,2,6,9,6,8,0,0,18,24
+Tamar voor de Poort,#2,Texas A&M-Corpus Christi Islanders,Santa Clara Broncos,0,11/11/25,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trinity Slocum,#9,Texas A&M-Corpus Christi Islanders,Santa Clara Broncos,0,11/11/25,14,0,3,3,2,0,0,2,3,0,3,0,1,0,0,0,1
+Riley Layton,#32,Warner Pacific Knights,Portland Pilots,0,11/11/25,20,0,1,1,0,0,0,2,3,3,11,0,0,2,6,8,-4
+Alex Saunders,#5,Warner Pacific Knights,Portland Pilots,0,11/11/25,25,1,2,3,0,0,0,2,0,2,9,0,0,3,4,7,0
+Kayla Kasubuchi,#25,Warner Pacific Knights,Portland Pilots,0,11/11/25,17,0,0,0,1,2,0,8,1,1,2,0,0,1,2,3,-3
+KJ Custer,#14,Warner Pacific Knights,Portland Pilots,0,11/11/25,18,1,2,3,1,2,0,6,0,1,5,0,2,0,0,2,-1
+Matty Woolf,#12,Warner Pacific Knights,Portland Pilots,0,11/11/25,27,0,1,1,1,3,0,0,2,0,3,0,3,0,0,0,10
+SK Hicks,#10,Warner Pacific Knights,Portland Pilots,0,11/11/25,18,1,0,1,1,1,0,1,1,0,2,0,0,1,2,1,4
+Maggie Lapray,#20,Warner Pacific Knights,Portland Pilots,0,11/11/25,17,0,1,1,1,0,0,0,1,0,3,0,0,2,2,2,3
+Lauren Katyryniuk,#11,Warner Pacific Knights,Portland Pilots,0,11/11/25,12,0,1,1,0,0,0,3,0,0,1,0,0,0,0,0,-6
+Bryten Gumke,#3,Warner Pacific Knights,Portland Pilots,0,11/11/25,23,0,0,0,0,1,0,3,0,1,4,1,2,0,0,3,-1
+Tali Sanders,#1,Warner Pacific Knights,Portland Pilots,0,11/11/25,7,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,-3
+Kiki Brooks,#23,Warner Pacific Knights,Portland Pilots,0,11/11/25,16,0,3,3,1,0,0,4,2,0,2,0,1,0,0,0,-5
+Lainey Spear,#20,Portland Pilots,Warner Pacific Knights,1,11/11/25,16,1,2,3,3,1,0,1,0,3,5,0,1,1,2,7,21
+Julia Dalan,#44,Portland Pilots,Warner Pacific Knights,1,11/11/25,15,2,1,3,2,0,1,3,0,3,5,0,0,5,6,11,18
+Rhyan Mogel,#22,Portland Pilots,Warner Pacific Knights,1,11/11/25,9,1,0,1,2,0,1,0,0,3,4,2,2,2,2,10,25
+Dyani Ananiev,#2,Portland Pilots,Warner Pacific Knights,1,11/11/25,11,1,3,4,3,6,0,2,2,3,3,1,1,0,0,7,45
+Florence Dallow,#3,Portland Pilots,Warner Pacific Knights,1,11/11/25,10,0,1,1,1,3,0,0,0,5,5,1,1,3,3,14,37
+Ella Zimmerman,#42,Portland Pilots,Warner Pacific Knights,1,11/11/25,16,2,4,6,0,0,3,0,1,2,6,0,0,0,0,4,18
+Jada Kennedy,#9,Portland Pilots,Warner Pacific Knights,1,11/11/25,13,2,5,7,1,0,3,1,0,4,4,0,0,0,0,8,30
+Aubrey Herrin,#5,Portland Pilots,Warner Pacific Knights,1,11/11/25,20,0,4,4,4,4,2,1,2,4,5,1,1,1,1,10,51
+Brynn Smith,#12,Portland Pilots,Warner Pacific Knights,1,11/11/25,24,0,2,2,5,3,1,4,1,4,10,2,5,0,0,10,32
+Caitlin Monahan,#14,Portland Pilots,Warner Pacific Knights,1,11/11/25,18,0,3,3,1,2,0,0,2,3,4,1,2,0,0,7,24
+Tiffany Barbosa,#7,Portland Pilots,Warner Pacific Knights,1,11/11/25,21,1,0,1,1,0,0,1,0,2,3,1,2,1,2,6,9
+Natalie Fraley,#10,Portland Pilots,Warner Pacific Knights,1,11/11/25,14,1,2,3,1,1,0,0,3,2,6,2,3,0,0,6,16
+Nicole Anderson,#17,Portland Pilots,Warner Pacific Knights,1,11/11/25,13,0,1,1,1,1,0,0,1,2,4,1,3,2,2,7,15
+Tamia Stricklin,#14,Seattle U Redhawks,Fresno State Bulldogs,0,11/11/25,33,1,4,5,1,1,0,4,4,3,6,0,1,3,4,9,11
+Lucija Milkovic,#7,Seattle U Redhawks,Fresno State Bulldogs,0,11/11/25,23,1,3,4,0,0,0,3,2,2,5,0,0,1,2,5,1
+Dylan Mogel,#5,Seattle U Redhawks,Fresno State Bulldogs,0,11/11/25,26,0,3,3,1,1,0,1,0,2,2,0,0,0,0,4,14
+Sydnie Rodriguez,#24,Seattle U Redhawks,Fresno State Bulldogs,0,11/11/25,26,0,2,2,0,0,0,1,1,1,5,1,3,2,2,5,1
+Ella Brubaker,#3,Seattle U Redhawks,Fresno State Bulldogs,0,11/11/25,14,0,3,3,1,0,0,3,1,3,9,0,2,2,2,8,3
+Fia Proctor,#4,Seattle U Redhawks,Fresno State Bulldogs,0,11/11/25,10,0,1,1,1,0,0,2,1,0,0,0,0,4,4,4,4
+Jana Vesic,#9,Seattle U Redhawks,Fresno State Bulldogs,0,11/11/25,27,0,0,0,2,0,0,1,2,4,7,0,3,4,6,12,12
+Chloe Emanga,#8,Seattle U Redhawks,Fresno State Bulldogs,0,11/11/25,13,0,3,3,0,1,0,2,0,2,2,0,0,1,2,5,9
+Aaliyah Ibarra,#21,Seattle U Redhawks,Fresno State Bulldogs,0,11/11/25,26,0,0,0,1,0,0,0,3,0,2,0,1,1,2,1,0
+Lucy Larson,#22,Seattle U Redhawks,Fresno State Bulldogs,0,11/11/25,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Ashlyn Rean,#14,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,27,3,4,7,1,1,0,1,1,7,11,0,0,1,3,15,29
+Djessira Diawara,#32,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,18,0,0,0,0,1,0,2,4,4,6,0,0,1,2,9,11
+Jaisa Gamble,#4,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,35,3,2,5,1,2,0,3,4,2,8,0,0,0,0,4,11
+Emilia Long,#11,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,29,0,2,2,2,1,0,1,3,10,14,1,2,0,0,21,38
+Danae Powell,#3,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,25,2,0,2,0,1,0,4,2,2,7,0,1,0,0,4,-1
+Hedda Koehne,#25,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,20,2,3,5,0,0,0,2,4,2,3,0,0,5,5,9,12
+Morelia Chavez,#8,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,3,6
+Avery Watkins,#12,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,15,0,3,3,1,1,0,0,1,3,4,0,0,2,4,8,19
+Briana Webb,#34,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,5,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,-1
+Ava Marr,#21,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,11,0,1,1,2,1,0,0,1,1,5,1,4,0,0,3,10
+Indiya Clarke,#20,Fresno State Bulldogs,Seattle U Redhawks,1,11/11/25,14,0,1,1,0,0,0,0,0,0,3,0,1,2,2,2,0
+Winner Bartholomew,#25,Pacific Tigers,California Golden Bears,0,11/11/25,21,1,4,5,0,2,0,1,4,4,15,0,0,0,1,8,11
+Daria Nestorov,#21,Pacific Tigers,California Golden Bears,0,11/11/25,31,0,3,3,5,1,0,3,3,2,8,0,3,0,0,4,13
+Marina Radocaj,#9,Pacific Tigers,California Golden Bears,0,11/11/25,20,1,4,5,0,0,2,3,5,1,3,0,0,0,0,2,6
+Stella Szabo,#5,Pacific Tigers,California Golden Bears,0,11/11/25,22,0,0,0,1,0,1,1,1,1,4,1,3,1,2,4,4
+Sydney Ward,#10,Pacific Tigers,California Golden Bears,0,11/11/25,25,0,2,2,0,2,0,1,2,4,7,2,2,1,2,11,21
+Luisa Anderegg,#11,Pacific Tigers,California Golden Bears,0,11/11/25,18,0,1,1,2,0,0,1,1,1,4,1,4,0,0,3,4
+Sophia Mindermann,#8,Pacific Tigers,California Golden Bears,0,11/11/25,2,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,-3
+Liv Yergensen,#7,Pacific Tigers,California Golden Bears,0,11/11/25,30,0,5,5,1,0,0,1,2,2,5,2,4,4,4,10,15
+Hannah Burg,#3,Pacific Tigers,California Golden Bears,0,11/11/25,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,-4
+Mali Ennis,#2,Pacific Tigers,California Golden Bears,0,11/11/25,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenlee Durrill,#23,Pacific Tigers,California Golden Bears,0,11/11/25,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nyah Lowery,#15,Pacific Tigers,California Golden Bears,0,11/11/25,26,2,4,6,3,0,0,1,4,4,8,2,5,0,0,10,22
+Taylor Barnes,#3,California Golden Bears,Pacific Tigers,1,11/11/25,38,2,6,8,1,0,0,0,2,3,13,1,6,1,2,8,8
+Sakima Walker,#35,California Golden Bears,Pacific Tigers,1,11/11/25,20,1,2,3,1,0,0,1,3,2,5,0,0,0,2,4,6
+Aliyahna Morris,#25,California Golden Bears,Pacific Tigers,1,11/11/25,19,0,4,4,2,1,0,5,1,1,3,0,1,2,2,4,7
+Lola Donez,#5,California Golden Bears,Pacific Tigers,1,11/11/25,25,0,1,1,1,1,0,2,3,0,1,0,0,1,2,1,4
+Lulu Twidale,#10,California Golden Bears,Pacific Tigers,1,11/11/25,34,1,5,6,3,1,0,2,1,6,15,0,6,7,7,19,26
+Naya Ojukwu,#13,California Golden Bears,Pacific Tigers,1,11/11/25,8,3,2,5,0,0,0,1,2,4,5,0,0,1,1,9,16
+Claudia Langarita,#22,California Golden Bears,Pacific Tigers,1,11/11/25,10,0,0,0,1,1,0,1,3,1,3,1,2,0,0,3,8
+Grace McCallop,#12,California Golden Bears,Pacific Tigers,1,11/11/25,5,0,0,0,0,0,0,2,0,0,1,0,1,1,2,1,-5
+Isis Johnson-Musah,#6,California Golden Bears,Pacific Tigers,1,11/11/25,5,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+Anastasia Drosouni,#23,California Golden Bears,Pacific Tigers,1,11/11/25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Mjracle Sheppard,#1,California Golden Bears,Pacific Tigers,1,11/11/25,13,1,2,3,0,2,1,0,0,2,5,0,0,3,4,7,20
+Gisella Maul,#21,California Golden Bears,Pacific Tigers,1,11/11/25,21,2,6,8,1,1,0,0,0,2,3,0,0,0,0,4,21
+Maya Hernandez,#55,Loyola Marymount Lions,Nevada Wolf Pack,0,11/13/25,28,1,0,1,2,1,0,3,3,7,14,0,1,2,6,16,16
+Ivana Krajina,#13,Loyola Marymount Lions,Nevada Wolf Pack,0,11/13/25,34,0,3,3,5,1,0,7,1,5,8,2,3,0,0,12,23
+Jess Lawson,#0,Loyola Marymount Lions,Nevada Wolf Pack,0,11/13/25,29,1,3,4,0,3,0,1,3,3,6,0,0,1,2,7,20
+Andjela Matic,#28,Loyola Marymount Lions,Nevada Wolf Pack,0,11/13/25,36,0,4,4,3,0,0,3,0,4,9,3,7,1,1,12,17
+Carly Heidger,#5,Loyola Marymount Lions,Nevada Wolf Pack,0,11/13/25,35,2,2,4,0,2,0,1,1,0,6,0,4,1,2,1,0
+Kayla Jones,#24,Loyola Marymount Lions,Nevada Wolf Pack,0,11/13/25,17,1,2,3,0,0,0,0,0,2,4,0,0,0,0,4,7
+Zawadi Ogot,#54,Loyola Marymount Lions,Nevada Wolf Pack,0,11/13/25,11,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+Mari Somvichian,#2,Loyola Marymount Lions,Nevada Wolf Pack,0,11/13/25,10,0,0,0,0,0,0,0,1,0,2,0,1,0,0,0,-3
+Makayla Carter,#23,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,18,0,0,0,1,1,0,2,5,0,1,0,0,4,4,4,7
+Kendra Hicks,#34,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,17,1,3,4,1,0,0,1,1,1,2,0,0,0,0,2,8
+Skylar Durley,#24,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,31,1,5,6,5,0,0,2,3,2,9,0,1,1,2,5,16
+Izzy Sullivan,#2,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,33,0,3,3,2,1,1,2,0,7,12,1,1,0,0,15,31
+Ahrray Young,#1,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,29,1,4,5,2,0,0,4,2,5,8,0,1,0,0,10,15
+Maia Rosarion,#14,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Tahj-Monet Bloom,#0,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,9,2,1,3,0,1,0,1,0,1,3,0,1,0,0,2,6
+Imbie Jones,#3,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,17,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,-1
+Amelia Raidaveta,#13,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,3
+Chloe Williams,#10,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,20,0,1,1,0,2,0,1,1,2,2,0,0,0,0,4,14
+Britain Backus,#11,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,12,0,0,0,0,2,0,2,2,3,4,2,3,0,0,8,16
+Gabby Ramos,#4,Nevada Wolf Pack,Loyola Marymount Lions,1,11/13/25,12,0,0,0,1,0,0,0,0,2,3,1,1,1,1,6,12
+Madelyn Bragg,#0,Colorado State Rams,Gonzaga Bulldogs,1,11/13/25,29,1,4,5,1,1,0,1,0,2,8,0,0,0,0,4,11
+Brooke Carlson,#2,Colorado State Rams,Gonzaga Bulldogs,1,11/13/25,33,0,1,1,2,1,0,5,2,4,6,0,1,5,6,13,15
+Kloe Froebe,#1,Colorado State Rams,Gonzaga Bulldogs,1,11/13/25,28,5,1,6,0,0,0,0,2,7,9,1,2,2,5,17,26
+Hannah Ronsiek,#30,Colorado State Rams,Gonzaga Bulldogs,1,11/13/25,33,0,4,4,2,4,0,2,4,6,12,3,9,1,2,16,35
+Lexus Bargesser,#3,Colorado State Rams,Gonzaga Bulldogs,1,11/13/25,30,0,2,2,2,1,0,0,3,6,12,0,1,0,0,12,24
+Jadyn Fife,#5,Colorado State Rams,Gonzaga Bulldogs,1,11/13/25,11,0,5,5,0,0,0,0,1,1,4,0,2,0,0,2,4
+Lexi Deden,#6,Colorado State Rams,Gonzaga Bulldogs,1,11/13/25,10,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,2
+McKenna Murphy,#31,Colorado State Rams,Gonzaga Bulldogs,1,11/13/25,14,0,3,3,0,0,0,0,0,2,5,2,5,0,0,6,8
+Marta Leimane,#14,Colorado State Rams,Gonzaga Bulldogs,1,11/13/25,12,0,1,1,1,0,0,1,0,0,2,0,0,0,0,0,1
+Lauren Whittaker,#33,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,23,2,5,7,0,0,1,3,2,12,18,4,7,1,3,29,38
+Taylor Smith,#20,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,23,1,4,5,3,1,0,1,2,1,5,0,1,1,2,3,14
+Zeryhia Aokuso,#55,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,28,0,5,5,3,2,0,4,1,5,11,0,1,3,4,13,24
+Allie Turner,#11,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,29,0,0,0,4,0,1,3,1,1,5,0,3,0,0,2,5
+Ines Bettencourt,#8,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,31,1,2,3,3,0,0,1,4,3,10,2,6,0,0,8,12
+Jaiden Haile,#23,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,15,2,2,4,1,0,0,0,2,0,0,0,0,1,2,1,7
+McKynnlie Dalan,#22,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,8,0,2,2,0,0,0,0,0,0,1,0,0,0,0,0,1
+Sierra Lichtie,#4,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,9,0,0,0,0,0,0,1,2,1,1,0,0,0,0,2,1
+Julia Wilson,#3,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,11,0,1,1,1,0,0,0,1,1,3,0,1,0,0,2,4
+Paige Lofing,#1,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teryn Gardner,#24,Gonzaga Bulldogs,Colorado State Rams,0,11/13/25,21,1,2,3,1,1,0,0,2,2,4,2,3,0,0,6,17
+Heloisa Carrera,#14,Arizona State Sun Devils,San Diego Toreros,1,11/13/25,20,3,3,6,1,0,0,2,3,3,6,0,0,0,0,6,12
+McKinna Brackens,#21,Arizona State Sun Devils,San Diego Toreros,1,11/13/25,19,1,2,3,1,1,1,0,3,4,8,0,0,2,2,10,24
+Amaya Williams,#1,Arizona State Sun Devils,San Diego Toreros,1,11/13/25,34,1,0,1,11,4,1,3,0,2,7,2,3,0,0,6,52
+Marley Washenitz,#11,Arizona State Sun Devils,San Diego Toreros,1,11/13/25,28,0,4,4,6,2,0,1,3,7,12,4,7,1,2,19,50
+Gabby Elliott,#0,Arizona State Sun Devils,San Diego Toreros,1,11/13/25,31,1,6,7,4,0,0,4,2,8,14,6,8,2,3,24,41
+Martina Fantini,#7,Arizona State Sun Devils,San Diego Toreros,1,11/13/25,16,0,5,5,1,2,2,1,3,3,4,0,0,0,0,6,29
+Timya Grice,#22,Arizona State Sun Devils,San Diego Toreros,1,11/13/25,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Deborah Davenport,#24,Arizona State Sun Devils,San Diego Toreros,1,11/13/25,15,0,1,1,0,0,0,0,1,1,1,0,0,0,0,2,5
+Jyah LoVett,#4,Arizona State Sun Devils,San Diego Toreros,1,11/13/25,24,1,4,5,1,0,0,1,1,1,5,1,3,0,0,3,6
+Makayla Moore,#12,Arizona State Sun Devils,San Diego Toreros,1,11/13/25,12,1,1,2,0,2,1,1,0,1,1,1,1,0,0,3,17
+Dresha Moore,#1,San Diego Toreros,Arizona State Sun Devils,0,11/13/25,25,1,4,5,0,1,0,3,3,2,8,0,0,1,2,5,3
+Helen Holley,#10,San Diego Toreros,Arizona State Sun Devils,0,11/13/25,23,3,1,4,0,1,2,3,4,2,5,1,2,1,2,6,12
+Malia Tharpe,#11,San Diego Toreros,Arizona State Sun Devils,0,11/13/25,37,2,4,6,0,0,0,2,2,2,10,1,3,1,2,6,0
+Olivia Owens,#24,San Diego Toreros,Arizona State Sun Devils,0,11/13/25,32,1,2,3,4,1,0,3,1,4,11,2,6,4,4,14,22
+Hallie Rhodes,#20,San Diego Toreros,Arizona State Sun Devils,0,11/13/25,28,0,2,2,2,2,0,5,1,4,14,0,2,0,0,8,6
+Eva Ruse,#15,San Diego Toreros,Arizona State Sun Devils,0,11/13/25,12,4,2,6,0,1,1,3,2,0,1,0,0,0,4,0,2
+Ayla Williams,#22,San Diego Toreros,Arizona State Sun Devils,0,11/13/25,13,2,3,5,0,0,1,0,0,0,1,0,0,2,2,2,9
+Ysabella Von Seipler,#0,San Diego Toreros,Arizona State Sun Devils,0,11/13/25,9,1,1,2,0,0,0,0,1,1,2,1,1,0,0,3,6
+Lilly Amor,#3,San Diego Toreros,Arizona State Sun Devils,0,11/13/25,21,0,0,0,2,0,0,0,1,1,3,1,3,0,2,3,5
+Lara Somfai,#12,Stanford Cardinal,Washington State Cougars,1,11/14/25,19,1,4,5,1,1,1,2,3,4,12,0,5,0,0,8,11
+Courtney Ogden,#40,Stanford Cardinal,Washington State Cougars,1,11/14/25,19,0,5,5,1,1,1,2,2,2,3,1,1,0,0,5,19
+Nunu Agara,#3,Stanford Cardinal,Washington State Cougars,1,11/14/25,30,3,5,8,2,1,1,1,3,3,9,0,2,3,4,9,23
+Hailee Swain,#2,Stanford Cardinal,Washington State Cougars,1,11/14/25,29,0,1,1,0,1,0,4,1,5,11,0,1,0,0,10,6
+Talana Lepolo,#10,Stanford Cardinal,Washington State Cougars,1,11/14/25,38,0,2,2,3,3,0,1,2,2,4,1,3,0,0,5,26
+Alexandra Eschmeyer,#4,Stanford Cardinal,Washington State Cougars,1,11/14/25,7,0,1,1,0,0,0,3,0,2,2,0,0,1,1,5,3
+Mary Ashley Stevenson,#22,Stanford Cardinal,Washington State Cougars,1,11/14/25,24,1,6,7,1,0,0,0,1,1,2,0,1,2,2,4,14
+Shay Ijiwoye,#6,Stanford Cardinal,Washington State Cougars,1,11/14/25,5,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,-1
+Chloe Clardy,#13,Stanford Cardinal,Washington State Cougars,1,11/14/25,29,2,1,3,3,2,0,2,2,3,10,0,4,2,3,8,16
+Malia Ruud,#55,Washington State Cougars,Stanford Cardinal,0,11/14/25,35,5,2,7,2,1,0,3,3,4,14,1,4,2,2,11,14
+Tanja Valancic,#9,Washington State Cougars,Stanford Cardinal,0,11/14/25,30,1,3,4,1,3,0,4,3,1,4,1,2,1,2,4,12
+Charlotte Abraham,#10,Washington State Cougars,Stanford Cardinal,0,11/14/25,23,0,4,4,0,0,0,1,3,3,7,1,4,2,2,9,8
+Mackenzie Chatfield,#8,Washington State Cougars,Stanford Cardinal,0,11/14/25,23,0,6,6,1,2,0,0,0,1,3,0,0,0,0,2,18
+Eleonora Villa,#2,Washington State Cougars,Stanford Cardinal,0,11/14/25,36,0,3,3,0,2,1,3,1,4,9,0,1,2,2,10,16
+Malvina Haziri,#1,Washington State Cougars,Stanford Cardinal,0,11/14/25,13,1,1,2,2,0,0,0,2,1,2,1,2,0,0,3,11
+Keandra Koorits,#15,Washington State Cougars,Stanford Cardinal,0,11/14/25,25,2,1,3,0,1,0,3,3,2,12,1,5,2,2,7,-3
+Marta Alsina,#12,Washington State Cougars,Stanford Cardinal,0,11/14/25,9,0,2,2,0,1,0,1,0,0,1,0,1,0,2,0,0
+Jean Chiu,#5,Washington State Cougars,Stanford Cardinal,0,11/14/25,6,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,-2
+Shorna Preston,#12,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,21,5,6,11,1,1,1,3,1,3,6,1,2,0,0,7,22
+Irune Orio,#31,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,19,1,2,3,1,0,0,4,0,0,4,0,4,0,0,0,-10
+Ellison Guiney,#2,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,29,3,0,3,2,0,0,3,2,2,8,2,5,3,4,9,6
+Taija Sta. Maria,#1,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,30,0,1,1,5,3,0,5,0,0,3,0,1,0,2,0,12
+Meghan Fiso,#13,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,21,0,4,4,1,0,1,2,2,2,7,0,3,3,6,7,4
+Zoe Shanahan,#44,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,7,0,0,0,0,0,0,3,1,2,3,0,0,0,0,4,-1
+Seleh Harmon,#30,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,24,1,1,2,0,0,0,4,1,4,8,3,5,1,2,12,6
+Quinn VanSickle,#11,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,7,1,0,1,0,0,0,1,1,0,1,0,1,0,0,0,-3
+Ilinca Belegante,#10,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,3,0,0,0,0,0,0,0,1,0,0,0,0,2,3,2,1
+Bella Green,#3,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,19,2,4,6,2,0,0,3,4,3,6,0,0,3,3,9,15
+Ivory Finley,#0,Pepperdine Waves,Utah Valley Wolverines,0,11/14/25,20,0,0,0,1,1,0,3,2,2,5,1,2,1,2,6,5
+Tessa Chaney,#34,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,21,1,4,5,4,1,0,3,2,5,9,0,0,1,2,11,27
+Cambree Blackham,#5,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,29,2,3,5,6,3,0,2,2,3,7,1,2,0,0,7,38
+Kylee Mabry,#1,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,25,1,1,2,0,0,0,2,2,3,9,0,2,0,1,6,-1
+Amanda Barcello,#3,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,28,2,1,3,2,5,2,1,3,6,9,5,6,2,2,19,60
+Halle Nelson,#25,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,17,2,6,8,1,2,1,3,5,2,3,2,2,1,2,7,26
+Evie Leeson,#15,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1
+Gaby Goo,#12,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,2,0,0,0,0,0,0,0,1,1,2,0,0,0,0,2,3
+Kaylee Headrick,#14,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,26,2,1,3,3,2,1,3,2,4,7,2,2,2,3,12,32
+Gracie Sorenson,#44,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,6,0,1,1,0,0,0,0,1,0,3,0,0,0,2,0,-3
+Anna Shreeve,#2,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,6,0,1,1,1,2,0,0,1,1,1,0,0,2,2,4,18
+KJ Carlyle,#4,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,4,0,1,1,0,0,1,0,0,2,3,1,1,0,0,5,12
+Naia Tanuvasa,#21,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,15,0,2,2,3,3,0,1,3,2,3,0,1,0,0,4,26
+Saige Gibb,#10,Utah Valley Wolverines,Pepperdine Waves,1,11/14/25,18,1,0,1,3,4,1,0,3,2,6,1,3,2,4,7,32
+Edie Clarke,#7,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,27,2,3,5,1,6,0,2,2,4,9,0,1,0,0,8,35
+Abigail Shoff,#5,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,17,0,1,1,0,0,0,1,3,1,6,1,4,1,2,4,-3
+Addi Wedin,#23,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,22,0,0,0,2,2,0,2,1,3,6,1,2,2,2,9,20
+Jada Hunter,#0,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,30,1,4,5,2,2,0,6,0,1,4,1,2,3,4,6,11
+Malia Latu,#13,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,26,1,2,3,2,1,0,4,0,3,5,0,0,0,0,6,13
+Melesungu Afeaki,#22,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,12,0,2,2,1,0,0,0,2,1,3,0,0,0,0,2,7
+Georgia Grigoropoulou,#10,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,3,0,1,1,0,0,0,0,0,1,3,0,0,0,0,2,3
+Mauriana Hashemian-Orr,#3,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,15,1,1,2,3,1,0,2,2,1,2,0,1,0,0,2,13
+Amy Kurkowski,#2,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,13,1,3,4,0,0,1,2,2,1,3,1,3,0,0,3,5
+Ella Wedin,#33,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,4,0,0,0,0,0,0,0,0,1,2,1,2,0,0,3,4
+Emily Foy,#8,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,14,1,2,3,0,0,0,0,0,1,3,0,2,0,0,2,3
+Charlece Ohiaeri,#4,Saint Mary's Gaels,UC Riverside Highlanders,1,11/14/25,17,2,3,5,1,1,0,0,2,2,6,0,2,0,2,4,11
+Bria Shine,#41,UC Riverside Highlanders,Saint Mary's Gaels,0,11/14/25,28,1,4,5,0,2,0,1,0,3,6,0,1,0,0,6,16
+Taylor Swanson,#22,UC Riverside Highlanders,Saint Mary's Gaels,0,11/14/25,19,0,1,1,1,2,0,3,1,3,5,0,2,0,0,6,11
+Shelley Duchemin,#5,UC Riverside Highlanders,Saint Mary's Gaels,0,11/14/25,23,2,3,5,1,1,0,2,0,1,4,1,1,4,4,7,14
+Aaliyah Stanton,#8,UC Riverside Highlanders,Saint Mary's Gaels,0,11/14/25,31,0,3,3,1,1,0,8,1,6,11,0,3,1,6,13,0
+Seneca Hackley,#2,UC Riverside Highlanders,Saint Mary's Gaels,0,11/14/25,32,1,1,2,2,2,0,0,3,2,4,0,2,0,0,4,18
+Lucia Moreno Tallon,#32,UC Riverside Highlanders,Saint Mary's Gaels,0,11/14/25,10,2,2,4,0,0,0,0,1,1,4,0,1,0,0,2,3
+Dieynaba Sylla,#30,UC Riverside Highlanders,Saint Mary's Gaels,0,11/14/25,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Makayla Minshall,#10,UC Riverside Highlanders,Saint Mary's Gaels,0,11/14/25,12,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,-4
+Kaylani Polk,#1,UC Riverside Highlanders,Saint Mary's Gaels,0,11/14/25,26,1,0,1,1,1,0,5,1,0,7,0,6,0,0,0,-15
+Maya Chocano,#9,UC Riverside Highlanders,Saint Mary's Gaels,0,11/14/25,17,0,3,3,0,0,1,1,3,1,7,1,5,0,0,3,-1
+Shailyn Pinkney,#21,Seton Hall Pirates,San Francisco Dons,1,11/14/25,25,0,2,2,3,2,0,2,2,1,4,0,1,0,0,2,15
+Mariana Valenzuela,#6,Seton Hall Pirates,San Francisco Dons,1,11/14/25,27,2,7,9,1,0,0,6,3,5,8,0,1,0,2,10,10
+Jada Eads,#0,Seton Hall Pirates,San Francisco Dons,1,11/14/25,30,0,3,3,5,1,0,5,3,5,12,2,7,4,4,16,24
+Savannah Catalon,#5,Seton Hall Pirates,San Francisco Dons,1,11/14/25,33,4,3,7,3,4,0,1,3,5,8,1,2,4,4,15,48
+Jordana Codio,#23,Seton Hall Pirates,San Francisco Dons,1,11/14/25,16,1,0,1,0,0,0,1,3,5,11,1,3,3,3,14,12
+Natalia Hall-Rosa,#3,Seton Hall Pirates,San Francisco Dons,1,11/14/25,4,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,-3
+Cam Rust,#10,Seton Hall Pirates,San Francisco Dons,1,11/14/25,19,1,2,3,3,1,0,4,2,4,6,0,0,2,2,10,21
+Messiah Hunter,#13,Seton Hall Pirates,San Francisco Dons,1,11/14/25,19,0,4,4,1,1,0,2,1,0,0,0,0,2,2,2,10
+Zahara Bishop,#8,Seton Hall Pirates,San Francisco Dons,1,11/14/25,19,2,2,4,1,1,0,0,1,4,10,1,2,0,0,9,19
+Ja'Kahla Craft,#2,Seton Hall Pirates,San Francisco Dons,1,11/14/25,9,0,1,1,0,1,0,0,2,1,4,0,2,0,1,2,3
+Noelia Mourio,#3,San Francisco Dons,Seton Hall Pirates,0,11/14/25,22,0,3,3,1,0,1,7,4,3,5,0,0,0,0,6,2
+Aina Cargol,#9,San Francisco Dons,Seton Hall Pirates,0,11/14/25,25,0,3,3,3,1,0,6,4,7,12,2,3,4,5,20,26
+Candy Edokpaigbe,#23,San Francisco Dons,Seton Hall Pirates,0,11/14/25,24,1,3,4,2,5,0,4,3,4,7,1,2,2,4,11,32
+Paula Tirado,#22,San Francisco Dons,Seton Hall Pirates,0,11/14/25,22,0,0,0,1,1,0,2,2,3,6,1,3,0,0,7,9
+Mara Neira,#2,San Francisco Dons,Seton Hall Pirates,0,11/14/25,21,0,3,3,3,0,0,0,2,1,7,1,5,0,0,3,7
+Sophia Priestley,#32,San Francisco Dons,Seton Hall Pirates,0,11/14/25,7,0,1,1,0,0,0,0,1,0,0,0,0,2,2,2,3
+Natasa Tausova,#12,San Francisco Dons,Seton Hall Pirates,0,11/14/25,24,2,3,5,0,2,0,1,4,5,11,2,5,1,2,13,21
+Nevaeh Ferrara Horne,#7,San Francisco Dons,Seton Hall Pirates,0,11/14/25,10,2,0,2,0,0,0,3,2,0,1,0,0,0,0,0,-5
+Michelle Ugwah,#14,San Francisco Dons,Seton Hall Pirates,0,11/14/25,20,2,0,2,0,1,0,1,0,1,5,0,0,0,0,2,3
+Amy Pateman,#10,San Francisco Dons,Seton Hall Pirates,0,11/14/25,5,0,0,0,0,0,0,0,1,0,2,0,2,0,0,0,-4
+Meghan McIntyre,#4,San Francisco Dons,Seton Hall Pirates,0,11/14/25,19,1,4,5,3,1,0,4,4,1,4,0,2,0,0,2,8
+Logann Alvar,#1,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,26,0,3,3,1,0,0,4,3,2,9,0,1,0,0,4,-4
+Madi Symons,#11,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,25,1,4,5,0,0,3,1,1,3,5,2,2,0,0,8,23
+Lana Beslic,#10,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,23,0,8,8,2,0,0,2,3,0,6,0,3,1,2,1,1
+Henna Sandvik,#26,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,21,1,1,2,0,0,1,2,2,1,4,0,1,0,0,2,0
+Malene Pedersen,#12,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,30,0,2,2,1,0,1,0,2,7,14,2,4,0,0,16,24
+Peyton Wohlford,#22,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,7,0,0,0,2,0,1,0,0,1,2,0,1,0,0,2,10
+Jane Rumpf,#2,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,9,0,2,2,0,0,0,0,1,0,0,0,0,0,0,0,2
+Liv Blomkvist,#5,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,5,0,1,1,0,0,0,0,0,2,3,0,0,0,0,4,6
+Heidur Karlsdottir,#15,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,10,1,0,1,1,0,0,1,1,1,1,0,0,0,0,2,5
+Katie Harrington,#21,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,4,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,1
+Aurore Eyango,#6,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,15,0,2,2,2,2,1,0,0,1,2,0,0,0,0,2,21
+Payton Muma,#3,Wyoming Cowgirls,Santa Clara Broncos,0,11/14/25,25,0,2,2,5,0,1,4,0,2,10,0,5,0,0,4,5
+Ava Schmidt,#13,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,22,0,2,2,0,3,0,1,2,5,12,3,6,0,0,13,24
+Kylee Fox,#30,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,11,0,2,2,0,1,0,0,0,0,3,0,0,0,0,0,4
+Sophie Glancey,#12,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,25,3,6,9,0,0,5,0,1,4,12,0,1,5,6,13,32
+Ashley Hawkins,#23,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,27,0,2,2,8,2,0,2,1,3,6,0,0,1,1,7,38
+Maia Jones,#9,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,19,1,2,3,1,1,0,3,4,3,8,2,4,0,0,8,11
+Tyler Gildersleeve-Stiles,#34,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,21,4,6,10,0,0,1,0,2,5,8,1,1,0,0,11,28
+Alana Goodchild,#11,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,5,0,0,0,0,0,0,0,1,0,1,0,1,0,2,0,-3
+Delainey Miller,#20,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,21,5,5,10,1,0,2,1,1,5,10,0,1,0,2,10,25
+Sienna Grieger,#6,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,5,0,0,0,0,0,0,0,0,2,3,0,1,0,0,4,5
+Kate Schat,#3,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,19,0,2,2,2,1,0,0,1,2,7,0,5,0,0,4,9
+Aniya Hooker,#2,Santa Clara Broncos,Wyoming Cowgirls,1,11/14/25,25,0,0,0,2,2,0,0,2,3,6,0,0,0,0,6,21
+Cearah Parchment,#30,Illinois Fighting Illini,Oregon State Beavers,0,11/14/25,34,1,5,6,1,0,0,1,1,5,10,4,6,0,2,14,21
+Berry Wallace,#23,Illinois Fighting Illini,Oregon State Beavers,0,11/14/25,34,5,1,6,0,2,0,3,3,8,16,2,4,6,6,24,32
+Destiny Jackson,#2,Illinois Fighting Illini,Oregon State Beavers,0,11/14/25,27,1,1,2,2,0,0,1,5,1,5,1,1,2,2,5,9
+Gretchen Dolan,#4,Illinois Fighting Illini,Oregon State Beavers,0,11/14/25,38,0,5,5,2,2,0,2,3,4,19,0,5,3,4,11,9
+Jasmine Brown-Hagger,#8,Illinois Fighting Illini,Oregon State Beavers,0,11/14/25,25,1,1,2,1,0,0,2,1,0,1,0,0,0,0,0,0
+Hayven Smith,#25,Illinois Fighting Illini,Oregon State Beavers,0,11/14/25,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+Lety Vasconcelos,#35,Illinois Fighting Illini,Oregon State Beavers,0,11/14/25,12,2,2,4,1,0,0,0,0,0,0,0,0,0,2,0,5
+Aaliyah Guyton,#1,Illinois Fighting Illini,Oregon State Beavers,0,11/14/25,13,0,1,1,2,0,0,0,1,2,4,1,1,0,0,5,13
+Maddie Webber,#34,Illinois Fighting Illini,Oregon State Beavers,0,11/14/25,14,2,0,2,1,0,0,2,1,0,3,0,2,0,0,0,-4
+Nene Sow,#32,Oregon State Beavers,Illinois Fighting Illini,1,11/14/25,18,0,2,2,0,2,1,1,2,0,0,0,0,0,0,0,12
+Ally Schimel,#4,Oregon State Beavers,Illinois Fighting Illini,1,11/14/25,14,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+Jenna Villa,#3,Oregon State Beavers,Illinois Fighting Illini,1,11/14/25,33,1,5,6,3,0,1,0,1,2,8,1,3,4,4,9,23
+Kennedie Shuler,#1,Oregon State Beavers,Illinois Fighting Illini,1,11/14/25,30,0,2,2,5,0,1,4,2,4,7,0,0,0,0,8,22
+Tiara Bolden,#0,Oregon State Beavers,Illinois Fighting Illini,1,11/14/25,35,1,5,6,0,2,0,4,0,9,13,2,4,5,6,25,36
+Lara Alonso-Basurto,#22,Oregon State Beavers,Illinois Fighting Illini,1,11/14/25,25,0,2,2,0,1,0,0,3,4,6,0,1,1,2,9,16
+Susana Yepes,#10,Oregon State Beavers,Illinois Fighting Illini,1,11/14/25,18,0,2,2,4,0,0,0,1,0,2,0,0,0,0,0,13
+Lizzy Williamson,#15,Oregon State Beavers,Illinois Fighting Illini,1,11/14/25,21,3,2,5,0,2,0,1,4,5,9,0,0,0,0,10,23
+Cloe Vecina,#31,Oregon State Beavers,Illinois Fighting Illini,1,11/14/25,6,0,0,0,0,0,0,0,2,1,2,1,1,0,0,3,5
